@@ -1,0 +1,15 @@
+/Users/stoykov/Projects/For Loop - Exercise/06. Oscars/bin/Debug/net7.0/06. Oscars
+/Users/stoykov/Projects/For Loop - Exercise/06. Oscars/bin/Debug/net7.0/06. Oscars.deps.json
+/Users/stoykov/Projects/For Loop - Exercise/06. Oscars/bin/Debug/net7.0/06. Oscars.runtimeconfig.json
+/Users/stoykov/Projects/For Loop - Exercise/06. Oscars/bin/Debug/net7.0/06. Oscars.dll
+/Users/stoykov/Projects/For Loop - Exercise/06. Oscars/bin/Debug/net7.0/06. Oscars.pdb
+/Users/stoykov/Projects/For Loop - Exercise/06. Oscars/obj/Debug/net7.0/06. Oscars.csproj.AssemblyReference.cache
+/Users/stoykov/Projects/For Loop - Exercise/06. Oscars/obj/Debug/net7.0/06. Oscars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Projects/For Loop - Exercise/06. Oscars/obj/Debug/net7.0/06. Oscars.AssemblyInfoInputs.cache
+/Users/stoykov/Projects/For Loop - Exercise/06. Oscars/obj/Debug/net7.0/06. Oscars.AssemblyInfo.cs
+/Users/stoykov/Projects/For Loop - Exercise/06. Oscars/obj/Debug/net7.0/06. Oscars.csproj.CoreCompileInputs.cache
+/Users/stoykov/Projects/For Loop - Exercise/06. Oscars/obj/Debug/net7.0/06. Oscars.dll
+/Users/stoykov/Projects/For Loop - Exercise/06. Oscars/obj/Debug/net7.0/refint/06. Oscars.dll
+/Users/stoykov/Projects/For Loop - Exercise/06. Oscars/obj/Debug/net7.0/06. Oscars.pdb
+/Users/stoykov/Projects/For Loop - Exercise/06. Oscars/obj/Debug/net7.0/06. Oscars.genruntimeconfig.cache
+/Users/stoykov/Projects/For Loop - Exercise/06. Oscars/obj/Debug/net7.0/ref/06. Oscars.dll

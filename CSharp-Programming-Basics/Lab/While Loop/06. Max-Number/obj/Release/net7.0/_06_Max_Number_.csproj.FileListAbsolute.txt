@@ -1,0 +1,15 @@
+/Users/stoykov/Projects/_01_ReadText_/_06_Max_Number_/bin/Release/net7.0/_06_Max_Number_
+/Users/stoykov/Projects/_01_ReadText_/_06_Max_Number_/bin/Release/net7.0/_06_Max_Number_.deps.json
+/Users/stoykov/Projects/_01_ReadText_/_06_Max_Number_/bin/Release/net7.0/_06_Max_Number_.runtimeconfig.json
+/Users/stoykov/Projects/_01_ReadText_/_06_Max_Number_/bin/Release/net7.0/_06_Max_Number_.dll
+/Users/stoykov/Projects/_01_ReadText_/_06_Max_Number_/bin/Release/net7.0/_06_Max_Number_.pdb
+/Users/stoykov/Projects/_01_ReadText_/_06_Max_Number_/obj/Release/net7.0/_06_Max_Number_.csproj.AssemblyReference.cache
+/Users/stoykov/Projects/_01_ReadText_/_06_Max_Number_/obj/Release/net7.0/_06_Max_Number_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Projects/_01_ReadText_/_06_Max_Number_/obj/Release/net7.0/_06_Max_Number_.AssemblyInfoInputs.cache
+/Users/stoykov/Projects/_01_ReadText_/_06_Max_Number_/obj/Release/net7.0/_06_Max_Number_.AssemblyInfo.cs
+/Users/stoykov/Projects/_01_ReadText_/_06_Max_Number_/obj/Release/net7.0/_06_Max_Number_.csproj.CoreCompileInputs.cache
+/Users/stoykov/Projects/_01_ReadText_/_06_Max_Number_/obj/Release/net7.0/_06_Max_Number_.dll
+/Users/stoykov/Projects/_01_ReadText_/_06_Max_Number_/obj/Release/net7.0/refint/_06_Max_Number_.dll
+/Users/stoykov/Projects/_01_ReadText_/_06_Max_Number_/obj/Release/net7.0/_06_Max_Number_.pdb
+/Users/stoykov/Projects/_01_ReadText_/_06_Max_Number_/obj/Release/net7.0/_06_Max_Number_.genruntimeconfig.cache
+/Users/stoykov/Projects/_01_ReadText_/_06_Max_Number_/obj/Release/net7.0/ref/_06_Max_Number_.dll

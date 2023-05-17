@@ -1,0 +1,15 @@
+/Users/stoykov/Projects/For Loop - Exercise/04. Clever Lily/bin/Debug/net7.0/04. Clever Lily
+/Users/stoykov/Projects/For Loop - Exercise/04. Clever Lily/bin/Debug/net7.0/04. Clever Lily.deps.json
+/Users/stoykov/Projects/For Loop - Exercise/04. Clever Lily/bin/Debug/net7.0/04. Clever Lily.runtimeconfig.json
+/Users/stoykov/Projects/For Loop - Exercise/04. Clever Lily/bin/Debug/net7.0/04. Clever Lily.dll
+/Users/stoykov/Projects/For Loop - Exercise/04. Clever Lily/bin/Debug/net7.0/04. Clever Lily.pdb
+/Users/stoykov/Projects/For Loop - Exercise/04. Clever Lily/obj/Debug/net7.0/04. Clever Lily.csproj.AssemblyReference.cache
+/Users/stoykov/Projects/For Loop - Exercise/04. Clever Lily/obj/Debug/net7.0/04. Clever Lily.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Projects/For Loop - Exercise/04. Clever Lily/obj/Debug/net7.0/04. Clever Lily.AssemblyInfoInputs.cache
+/Users/stoykov/Projects/For Loop - Exercise/04. Clever Lily/obj/Debug/net7.0/04. Clever Lily.AssemblyInfo.cs
+/Users/stoykov/Projects/For Loop - Exercise/04. Clever Lily/obj/Debug/net7.0/04. Clever Lily.csproj.CoreCompileInputs.cache
+/Users/stoykov/Projects/For Loop - Exercise/04. Clever Lily/obj/Debug/net7.0/04. Clever Lily.dll
+/Users/stoykov/Projects/For Loop - Exercise/04. Clever Lily/obj/Debug/net7.0/refint/04. Clever Lily.dll
+/Users/stoykov/Projects/For Loop - Exercise/04. Clever Lily/obj/Debug/net7.0/04. Clever Lily.pdb
+/Users/stoykov/Projects/For Loop - Exercise/04. Clever Lily/obj/Debug/net7.0/04. Clever Lily.genruntimeconfig.cache
+/Users/stoykov/Projects/For Loop - Exercise/04. Clever Lily/obj/Debug/net7.0/ref/04. Clever Lily.dll

@@ -1,0 +1,15 @@
+/Users/stoykov/Projects/For Loop - Exercise/08. Tennis Ranklist/bin/Debug/net7.0/08. Tennis Ranklist
+/Users/stoykov/Projects/For Loop - Exercise/08. Tennis Ranklist/bin/Debug/net7.0/08. Tennis Ranklist.deps.json
+/Users/stoykov/Projects/For Loop - Exercise/08. Tennis Ranklist/bin/Debug/net7.0/08. Tennis Ranklist.runtimeconfig.json
+/Users/stoykov/Projects/For Loop - Exercise/08. Tennis Ranklist/bin/Debug/net7.0/08. Tennis Ranklist.dll
+/Users/stoykov/Projects/For Loop - Exercise/08. Tennis Ranklist/bin/Debug/net7.0/08. Tennis Ranklist.pdb
+/Users/stoykov/Projects/For Loop - Exercise/08. Tennis Ranklist/obj/Debug/net7.0/08. Tennis Ranklist.csproj.AssemblyReference.cache
+/Users/stoykov/Projects/For Loop - Exercise/08. Tennis Ranklist/obj/Debug/net7.0/08. Tennis Ranklist.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Projects/For Loop - Exercise/08. Tennis Ranklist/obj/Debug/net7.0/08. Tennis Ranklist.AssemblyInfoInputs.cache
+/Users/stoykov/Projects/For Loop - Exercise/08. Tennis Ranklist/obj/Debug/net7.0/08. Tennis Ranklist.AssemblyInfo.cs
+/Users/stoykov/Projects/For Loop - Exercise/08. Tennis Ranklist/obj/Debug/net7.0/08. Tennis Ranklist.csproj.CoreCompileInputs.cache
+/Users/stoykov/Projects/For Loop - Exercise/08. Tennis Ranklist/obj/Debug/net7.0/08. Tennis Ranklist.dll
+/Users/stoykov/Projects/For Loop - Exercise/08. Tennis Ranklist/obj/Debug/net7.0/refint/08. Tennis Ranklist.dll
+/Users/stoykov/Projects/For Loop - Exercise/08. Tennis Ranklist/obj/Debug/net7.0/08. Tennis Ranklist.pdb
+/Users/stoykov/Projects/For Loop - Exercise/08. Tennis Ranklist/obj/Debug/net7.0/08. Tennis Ranklist.genruntimeconfig.cache
+/Users/stoykov/Projects/For Loop - Exercise/08. Tennis Ranklist/obj/Debug/net7.0/ref/08. Tennis Ranklist.dll

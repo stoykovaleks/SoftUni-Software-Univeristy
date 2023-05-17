@@ -1,0 +1,15 @@
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_02_NumTo1/bin/Debug/net7.0/_02_NumTo1
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_02_NumTo1/bin/Debug/net7.0/_02_NumTo1.deps.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_02_NumTo1/bin/Debug/net7.0/_02_NumTo1.runtimeconfig.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_02_NumTo1/bin/Debug/net7.0/_02_NumTo1.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_02_NumTo1/bin/Debug/net7.0/_02_NumTo1.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_02_NumTo1/obj/Debug/net7.0/_02_NumTo1.csproj.AssemblyReference.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_02_NumTo1/obj/Debug/net7.0/_02_NumTo1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_02_NumTo1/obj/Debug/net7.0/_02_NumTo1.AssemblyInfoInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_02_NumTo1/obj/Debug/net7.0/_02_NumTo1.AssemblyInfo.cs
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_02_NumTo1/obj/Debug/net7.0/_02_NumTo1.csproj.CoreCompileInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_02_NumTo1/obj/Debug/net7.0/_02_NumTo1.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_02_NumTo1/obj/Debug/net7.0/refint/_02_NumTo1.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_02_NumTo1/obj/Debug/net7.0/_02_NumTo1.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_02_NumTo1/obj/Debug/net7.0/_02_NumTo1.genruntimeconfig.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_02_NumTo1/obj/Debug/net7.0/ref/_02_NumTo1.dll

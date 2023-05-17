@@ -1,0 +1,15 @@
+/Users/stoykov/Projects/_01_ReadText_/04. Sequence 2k+1/bin/Debug/net7.0/04. Sequence 2k+1
+/Users/stoykov/Projects/_01_ReadText_/04. Sequence 2k+1/bin/Debug/net7.0/04. Sequence 2k+1.deps.json
+/Users/stoykov/Projects/_01_ReadText_/04. Sequence 2k+1/bin/Debug/net7.0/04. Sequence 2k+1.runtimeconfig.json
+/Users/stoykov/Projects/_01_ReadText_/04. Sequence 2k+1/bin/Debug/net7.0/04. Sequence 2k+1.dll
+/Users/stoykov/Projects/_01_ReadText_/04. Sequence 2k+1/bin/Debug/net7.0/04. Sequence 2k+1.pdb
+/Users/stoykov/Projects/_01_ReadText_/04. Sequence 2k+1/obj/Debug/net7.0/04. Sequence 2k+1.csproj.AssemblyReference.cache
+/Users/stoykov/Projects/_01_ReadText_/04. Sequence 2k+1/obj/Debug/net7.0/04. Sequence 2k+1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Projects/_01_ReadText_/04. Sequence 2k+1/obj/Debug/net7.0/04. Sequence 2k+1.AssemblyInfoInputs.cache
+/Users/stoykov/Projects/_01_ReadText_/04. Sequence 2k+1/obj/Debug/net7.0/04. Sequence 2k+1.AssemblyInfo.cs
+/Users/stoykov/Projects/_01_ReadText_/04. Sequence 2k+1/obj/Debug/net7.0/04. Sequence 2k+1.csproj.CoreCompileInputs.cache
+/Users/stoykov/Projects/_01_ReadText_/04. Sequence 2k+1/obj/Debug/net7.0/04. Sequence 2k+1.dll
+/Users/stoykov/Projects/_01_ReadText_/04. Sequence 2k+1/obj/Debug/net7.0/refint/04. Sequence 2k+1.dll
+/Users/stoykov/Projects/_01_ReadText_/04. Sequence 2k+1/obj/Debug/net7.0/04. Sequence 2k+1.pdb
+/Users/stoykov/Projects/_01_ReadText_/04. Sequence 2k+1/obj/Debug/net7.0/04. Sequence 2k+1.genruntimeconfig.cache
+/Users/stoykov/Projects/_01_ReadText_/04. Sequence 2k+1/obj/Debug/net7.0/ref/04. Sequence 2k+1.dll

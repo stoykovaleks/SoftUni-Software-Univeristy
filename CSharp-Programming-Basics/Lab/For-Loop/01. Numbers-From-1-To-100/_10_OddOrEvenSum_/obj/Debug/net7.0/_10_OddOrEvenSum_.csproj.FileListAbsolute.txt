@@ -1,0 +1,15 @@
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_10_OddOrEvenSum_/bin/Debug/net7.0/_10_OddOrEvenSum_
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_10_OddOrEvenSum_/bin/Debug/net7.0/_10_OddOrEvenSum_.deps.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_10_OddOrEvenSum_/bin/Debug/net7.0/_10_OddOrEvenSum_.runtimeconfig.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_10_OddOrEvenSum_/bin/Debug/net7.0/_10_OddOrEvenSum_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_10_OddOrEvenSum_/bin/Debug/net7.0/_10_OddOrEvenSum_.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_10_OddOrEvenSum_/obj/Debug/net7.0/_10_OddOrEvenSum_.csproj.AssemblyReference.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_10_OddOrEvenSum_/obj/Debug/net7.0/_10_OddOrEvenSum_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_10_OddOrEvenSum_/obj/Debug/net7.0/_10_OddOrEvenSum_.AssemblyInfoInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_10_OddOrEvenSum_/obj/Debug/net7.0/_10_OddOrEvenSum_.AssemblyInfo.cs
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_10_OddOrEvenSum_/obj/Debug/net7.0/_10_OddOrEvenSum_.csproj.CoreCompileInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_10_OddOrEvenSum_/obj/Debug/net7.0/_10_OddOrEvenSum_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_10_OddOrEvenSum_/obj/Debug/net7.0/refint/_10_OddOrEvenSum_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_10_OddOrEvenSum_/obj/Debug/net7.0/_10_OddOrEvenSum_.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_10_OddOrEvenSum_/obj/Debug/net7.0/_10_OddOrEvenSum_.genruntimeconfig.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_10_OddOrEvenSum_/obj/Debug/net7.0/ref/_10_OddOrEvenSum_.dll

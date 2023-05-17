@@ -1,0 +1,15 @@
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/03. Rectangle Area/bin/Debug/net7.0/03. Rectangle Area
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/03. Rectangle Area/bin/Debug/net7.0/03. Rectangle Area.deps.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/03. Rectangle Area/bin/Debug/net7.0/03. Rectangle Area.runtimeconfig.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/03. Rectangle Area/bin/Debug/net7.0/03. Rectangle Area.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/03. Rectangle Area/bin/Debug/net7.0/03. Rectangle Area.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/03. Rectangle Area/obj/Debug/net7.0/03. Rectangle Area.csproj.AssemblyReference.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/03. Rectangle Area/obj/Debug/net7.0/03. Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/03. Rectangle Area/obj/Debug/net7.0/03. Rectangle Area.AssemblyInfoInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/03. Rectangle Area/obj/Debug/net7.0/03. Rectangle Area.AssemblyInfo.cs
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/03. Rectangle Area/obj/Debug/net7.0/03. Rectangle Area.csproj.CoreCompileInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/03. Rectangle Area/obj/Debug/net7.0/03. Rectangle Area.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/03. Rectangle Area/obj/Debug/net7.0/refint/03. Rectangle Area.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/03. Rectangle Area/obj/Debug/net7.0/03. Rectangle Area.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/03. Rectangle Area/obj/Debug/net7.0/03. Rectangle Area.genruntimeconfig.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/03. Rectangle Area/obj/Debug/net7.0/ref/03. Rectangle Area.dll

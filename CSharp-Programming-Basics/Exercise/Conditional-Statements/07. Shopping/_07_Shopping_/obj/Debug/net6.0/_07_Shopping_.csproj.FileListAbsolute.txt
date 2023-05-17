@@ -1,0 +1,15 @@
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_07_Shopping_/_07_Shopping_/bin/Debug/net6.0/_07_Shopping_
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_07_Shopping_/_07_Shopping_/bin/Debug/net6.0/_07_Shopping_.deps.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_07_Shopping_/_07_Shopping_/bin/Debug/net6.0/_07_Shopping_.runtimeconfig.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_07_Shopping_/_07_Shopping_/bin/Debug/net6.0/_07_Shopping_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_07_Shopping_/_07_Shopping_/bin/Debug/net6.0/_07_Shopping_.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_07_Shopping_/_07_Shopping_/obj/Debug/net6.0/_07_Shopping_.csproj.AssemblyReference.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_07_Shopping_/_07_Shopping_/obj/Debug/net6.0/_07_Shopping_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_07_Shopping_/_07_Shopping_/obj/Debug/net6.0/_07_Shopping_.AssemblyInfoInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_07_Shopping_/_07_Shopping_/obj/Debug/net6.0/_07_Shopping_.AssemblyInfo.cs
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_07_Shopping_/_07_Shopping_/obj/Debug/net6.0/_07_Shopping_.csproj.CoreCompileInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_07_Shopping_/_07_Shopping_/obj/Debug/net6.0/_07_Shopping_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_07_Shopping_/_07_Shopping_/obj/Debug/net6.0/refint/_07_Shopping_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_07_Shopping_/_07_Shopping_/obj/Debug/net6.0/_07_Shopping_.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_07_Shopping_/_07_Shopping_/obj/Debug/net6.0/_07_Shopping_.genruntimeconfig.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_07_Shopping_/_07_Shopping_/obj/Debug/net6.0/ref/_07_Shopping_.dll

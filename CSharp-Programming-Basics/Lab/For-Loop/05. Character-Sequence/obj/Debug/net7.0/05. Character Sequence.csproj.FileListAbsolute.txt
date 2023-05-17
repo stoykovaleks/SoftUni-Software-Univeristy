@@ -1,0 +1,15 @@
+/Users/stoykov/Projects/For Loop - Lab/05. Character Sequence/bin/Debug/net7.0/05. Character Sequence
+/Users/stoykov/Projects/For Loop - Lab/05. Character Sequence/bin/Debug/net7.0/05. Character Sequence.deps.json
+/Users/stoykov/Projects/For Loop - Lab/05. Character Sequence/bin/Debug/net7.0/05. Character Sequence.runtimeconfig.json
+/Users/stoykov/Projects/For Loop - Lab/05. Character Sequence/bin/Debug/net7.0/05. Character Sequence.dll
+/Users/stoykov/Projects/For Loop - Lab/05. Character Sequence/bin/Debug/net7.0/05. Character Sequence.pdb
+/Users/stoykov/Projects/For Loop - Lab/05. Character Sequence/obj/Debug/net7.0/05. Character Sequence.csproj.AssemblyReference.cache
+/Users/stoykov/Projects/For Loop - Lab/05. Character Sequence/obj/Debug/net7.0/05. Character Sequence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Projects/For Loop - Lab/05. Character Sequence/obj/Debug/net7.0/05. Character Sequence.AssemblyInfoInputs.cache
+/Users/stoykov/Projects/For Loop - Lab/05. Character Sequence/obj/Debug/net7.0/05. Character Sequence.AssemblyInfo.cs
+/Users/stoykov/Projects/For Loop - Lab/05. Character Sequence/obj/Debug/net7.0/05. Character Sequence.csproj.CoreCompileInputs.cache
+/Users/stoykov/Projects/For Loop - Lab/05. Character Sequence/obj/Debug/net7.0/05. Character Sequence.dll
+/Users/stoykov/Projects/For Loop - Lab/05. Character Sequence/obj/Debug/net7.0/refint/05. Character Sequence.dll
+/Users/stoykov/Projects/For Loop - Lab/05. Character Sequence/obj/Debug/net7.0/05. Character Sequence.pdb
+/Users/stoykov/Projects/For Loop - Lab/05. Character Sequence/obj/Debug/net7.0/05. Character Sequence.genruntimeconfig.cache
+/Users/stoykov/Projects/For Loop - Lab/05. Character Sequence/obj/Debug/net7.0/ref/05. Character Sequence.dll

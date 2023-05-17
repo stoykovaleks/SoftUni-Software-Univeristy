@@ -1,0 +1,15 @@
+/Users/stoykov/Projects/USD to BGN/05. Supplies for School/bin/Debug/net7.0/05. Supplies for School
+/Users/stoykov/Projects/USD to BGN/05. Supplies for School/bin/Debug/net7.0/05. Supplies for School.deps.json
+/Users/stoykov/Projects/USD to BGN/05. Supplies for School/bin/Debug/net7.0/05. Supplies for School.runtimeconfig.json
+/Users/stoykov/Projects/USD to BGN/05. Supplies for School/bin/Debug/net7.0/05. Supplies for School.dll
+/Users/stoykov/Projects/USD to BGN/05. Supplies for School/bin/Debug/net7.0/05. Supplies for School.pdb
+/Users/stoykov/Projects/USD to BGN/05. Supplies for School/obj/Debug/net7.0/05. Supplies for School.csproj.AssemblyReference.cache
+/Users/stoykov/Projects/USD to BGN/05. Supplies for School/obj/Debug/net7.0/05. Supplies for School.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Projects/USD to BGN/05. Supplies for School/obj/Debug/net7.0/05. Supplies for School.AssemblyInfoInputs.cache
+/Users/stoykov/Projects/USD to BGN/05. Supplies for School/obj/Debug/net7.0/05. Supplies for School.AssemblyInfo.cs
+/Users/stoykov/Projects/USD to BGN/05. Supplies for School/obj/Debug/net7.0/05. Supplies for School.csproj.CoreCompileInputs.cache
+/Users/stoykov/Projects/USD to BGN/05. Supplies for School/obj/Debug/net7.0/05. Supplies for School.dll
+/Users/stoykov/Projects/USD to BGN/05. Supplies for School/obj/Debug/net7.0/refint/05. Supplies for School.dll
+/Users/stoykov/Projects/USD to BGN/05. Supplies for School/obj/Debug/net7.0/05. Supplies for School.pdb
+/Users/stoykov/Projects/USD to BGN/05. Supplies for School/obj/Debug/net7.0/05. Supplies for School.genruntimeconfig.cache
+/Users/stoykov/Projects/USD to BGN/05. Supplies for School/obj/Debug/net7.0/ref/05. Supplies for School.dll

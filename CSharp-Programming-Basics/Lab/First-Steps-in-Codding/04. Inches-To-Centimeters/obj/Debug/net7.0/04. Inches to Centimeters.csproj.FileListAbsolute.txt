@@ -1,0 +1,15 @@
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/04. Inches to Centimeters/bin/Debug/net7.0/04. Inches to Centimeters
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/04. Inches to Centimeters/bin/Debug/net7.0/04. Inches to Centimeters.deps.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/04. Inches to Centimeters/bin/Debug/net7.0/04. Inches to Centimeters.runtimeconfig.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/04. Inches to Centimeters/bin/Debug/net7.0/04. Inches to Centimeters.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/04. Inches to Centimeters/bin/Debug/net7.0/04. Inches to Centimeters.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/04. Inches to Centimeters/obj/Debug/net7.0/04. Inches to Centimeters.csproj.AssemblyReference.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/04. Inches to Centimeters/obj/Debug/net7.0/04. Inches to Centimeters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/04. Inches to Centimeters/obj/Debug/net7.0/04. Inches to Centimeters.AssemblyInfoInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/04. Inches to Centimeters/obj/Debug/net7.0/04. Inches to Centimeters.AssemblyInfo.cs
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/04. Inches to Centimeters/obj/Debug/net7.0/04. Inches to Centimeters.csproj.CoreCompileInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/04. Inches to Centimeters/obj/Debug/net7.0/04. Inches to Centimeters.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/04. Inches to Centimeters/obj/Debug/net7.0/refint/04. Inches to Centimeters.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/04. Inches to Centimeters/obj/Debug/net7.0/04. Inches to Centimeters.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/04. Inches to Centimeters/obj/Debug/net7.0/04. Inches to Centimeters.genruntimeconfig.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/04. Inches to Centimeters/obj/Debug/net7.0/ref/04. Inches to Centimeters.dll

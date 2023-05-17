@@ -1,0 +1,15 @@
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/06. Building/bin/Debug/net7.0/06. Building
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/06. Building/bin/Debug/net7.0/06. Building.deps.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/06. Building/bin/Debug/net7.0/06. Building.runtimeconfig.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/06. Building/bin/Debug/net7.0/06. Building.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/06. Building/bin/Debug/net7.0/06. Building.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/06. Building/obj/Debug/net7.0/06. Building.csproj.AssemblyReference.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/06. Building/obj/Debug/net7.0/06. Building.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/06. Building/obj/Debug/net7.0/06. Building.AssemblyInfoInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/06. Building/obj/Debug/net7.0/06. Building.AssemblyInfo.cs
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/06. Building/obj/Debug/net7.0/06. Building.csproj.CoreCompileInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/06. Building/obj/Debug/net7.0/06. Building.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/06. Building/obj/Debug/net7.0/refint/06. Building.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/06. Building/obj/Debug/net7.0/06. Building.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/06. Building/obj/Debug/net7.0/06. Building.genruntimeconfig.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/06. Building/obj/Debug/net7.0/ref/06. Building.dll

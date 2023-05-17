@@ -1,0 +1,15 @@
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_03_Nums_1_to_N_3_/bin/Debug/net7.0/_03_Nums_1_to_N_3_
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_03_Nums_1_to_N_3_/bin/Debug/net7.0/_03_Nums_1_to_N_3_.deps.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_03_Nums_1_to_N_3_/bin/Debug/net7.0/_03_Nums_1_to_N_3_.runtimeconfig.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_03_Nums_1_to_N_3_/bin/Debug/net7.0/_03_Nums_1_to_N_3_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_03_Nums_1_to_N_3_/bin/Debug/net7.0/_03_Nums_1_to_N_3_.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_03_Nums_1_to_N_3_/obj/Debug/net7.0/_03_Nums_1_to_N_3_.csproj.AssemblyReference.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_03_Nums_1_to_N_3_/obj/Debug/net7.0/_03_Nums_1_to_N_3_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_03_Nums_1_to_N_3_/obj/Debug/net7.0/_03_Nums_1_to_N_3_.AssemblyInfoInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_03_Nums_1_to_N_3_/obj/Debug/net7.0/_03_Nums_1_to_N_3_.AssemblyInfo.cs
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_03_Nums_1_to_N_3_/obj/Debug/net7.0/_03_Nums_1_to_N_3_.csproj.CoreCompileInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_03_Nums_1_to_N_3_/obj/Debug/net7.0/_03_Nums_1_to_N_3_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_03_Nums_1_to_N_3_/obj/Debug/net7.0/refint/_03_Nums_1_to_N_3_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_03_Nums_1_to_N_3_/obj/Debug/net7.0/_03_Nums_1_to_N_3_.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_03_Nums_1_to_N_3_/obj/Debug/net7.0/_03_Nums_1_to_N_3_.genruntimeconfig.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_03_Nums_1_to_N_3_/obj/Debug/net7.0/ref/_03_Nums_1_to_N_3_.dll

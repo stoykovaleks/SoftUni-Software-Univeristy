@@ -1,0 +1,15 @@
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_05_Salary_/bin/Debug/net7.0/_05_Salary_
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_05_Salary_/bin/Debug/net7.0/_05_Salary_.deps.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_05_Salary_/bin/Debug/net7.0/_05_Salary_.runtimeconfig.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_05_Salary_/bin/Debug/net7.0/_05_Salary_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_05_Salary_/bin/Debug/net7.0/_05_Salary_.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_05_Salary_/obj/Debug/net7.0/_05_Salary_.csproj.AssemblyReference.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_05_Salary_/obj/Debug/net7.0/_05_Salary_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_05_Salary_/obj/Debug/net7.0/_05_Salary_.AssemblyInfoInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_05_Salary_/obj/Debug/net7.0/_05_Salary_.AssemblyInfo.cs
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_05_Salary_/obj/Debug/net7.0/_05_Salary_.csproj.CoreCompileInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_05_Salary_/obj/Debug/net7.0/_05_Salary_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_05_Salary_/obj/Debug/net7.0/refint/_05_Salary_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_05_Salary_/obj/Debug/net7.0/_05_Salary_.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_05_Salary_/obj/Debug/net7.0/_05_Salary_.genruntimeconfig.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_05_Salary_/obj/Debug/net7.0/ref/_05_Salary_.dll

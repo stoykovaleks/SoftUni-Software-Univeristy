@@ -1,0 +1,15 @@
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_06_World_Swim_Record_/_06_World_Swim_Record_/bin/Debug/net6.0/_06_World_Swim_Record_
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_06_World_Swim_Record_/_06_World_Swim_Record_/bin/Debug/net6.0/_06_World_Swim_Record_.deps.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_06_World_Swim_Record_/_06_World_Swim_Record_/bin/Debug/net6.0/_06_World_Swim_Record_.runtimeconfig.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_06_World_Swim_Record_/_06_World_Swim_Record_/bin/Debug/net6.0/_06_World_Swim_Record_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_06_World_Swim_Record_/_06_World_Swim_Record_/bin/Debug/net6.0/_06_World_Swim_Record_.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_06_World_Swim_Record_/_06_World_Swim_Record_/obj/Debug/net6.0/_06_World_Swim_Record_.csproj.AssemblyReference.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_06_World_Swim_Record_/_06_World_Swim_Record_/obj/Debug/net6.0/_06_World_Swim_Record_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_06_World_Swim_Record_/_06_World_Swim_Record_/obj/Debug/net6.0/_06_World_Swim_Record_.AssemblyInfoInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_06_World_Swim_Record_/_06_World_Swim_Record_/obj/Debug/net6.0/_06_World_Swim_Record_.AssemblyInfo.cs
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_06_World_Swim_Record_/_06_World_Swim_Record_/obj/Debug/net6.0/_06_World_Swim_Record_.csproj.CoreCompileInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_06_World_Swim_Record_/_06_World_Swim_Record_/obj/Debug/net6.0/_06_World_Swim_Record_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_06_World_Swim_Record_/_06_World_Swim_Record_/obj/Debug/net6.0/refint/_06_World_Swim_Record_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_06_World_Swim_Record_/_06_World_Swim_Record_/obj/Debug/net6.0/_06_World_Swim_Record_.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_06_World_Swim_Record_/_06_World_Swim_Record_/obj/Debug/net6.0/_06_World_Swim_Record_.genruntimeconfig.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_06_World_Swim_Record_/_06_World_Swim_Record_/obj/Debug/net6.0/ref/_06_World_Swim_Record_.dll

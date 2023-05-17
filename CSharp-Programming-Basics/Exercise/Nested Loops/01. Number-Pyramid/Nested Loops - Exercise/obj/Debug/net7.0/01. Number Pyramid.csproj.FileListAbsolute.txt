@@ -1,0 +1,15 @@
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/01. Number Pyramid/Nested Loops - Exercise/bin/Debug/net7.0/Nested Loops - Exercise
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/01. Number Pyramid/Nested Loops - Exercise/bin/Debug/net7.0/Nested Loops - Exercise.deps.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/01. Number Pyramid/Nested Loops - Exercise/bin/Debug/net7.0/Nested Loops - Exercise.runtimeconfig.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/01. Number Pyramid/Nested Loops - Exercise/bin/Debug/net7.0/Nested Loops - Exercise.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/01. Number Pyramid/Nested Loops - Exercise/bin/Debug/net7.0/Nested Loops - Exercise.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/01. Number Pyramid/Nested Loops - Exercise/obj/Debug/net7.0/01. Number Pyramid.csproj.AssemblyReference.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/01. Number Pyramid/Nested Loops - Exercise/obj/Debug/net7.0/01. Number Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/01. Number Pyramid/Nested Loops - Exercise/obj/Debug/net7.0/01. Number Pyramid.AssemblyInfoInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/01. Number Pyramid/Nested Loops - Exercise/obj/Debug/net7.0/01. Number Pyramid.AssemblyInfo.cs
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/01. Number Pyramid/Nested Loops - Exercise/obj/Debug/net7.0/01. Number Pyramid.csproj.CoreCompileInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/01. Number Pyramid/Nested Loops - Exercise/obj/Debug/net7.0/Nested Loops - Exercise.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/01. Number Pyramid/Nested Loops - Exercise/obj/Debug/net7.0/refint/Nested Loops - Exercise.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/01. Number Pyramid/Nested Loops - Exercise/obj/Debug/net7.0/Nested Loops - Exercise.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/01. Number Pyramid/Nested Loops - Exercise/obj/Debug/net7.0/01. Number Pyramid.genruntimeconfig.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/01. Number Pyramid/Nested Loops - Exercise/obj/Debug/net7.0/ref/Nested Loops - Exercise.dll

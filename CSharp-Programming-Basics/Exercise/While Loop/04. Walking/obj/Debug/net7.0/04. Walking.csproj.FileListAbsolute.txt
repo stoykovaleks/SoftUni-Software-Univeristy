@@ -1,0 +1,15 @@
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/04. Walking/bin/Debug/net7.0/04. Walking
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/04. Walking/bin/Debug/net7.0/04. Walking.deps.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/04. Walking/bin/Debug/net7.0/04. Walking.runtimeconfig.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/04. Walking/bin/Debug/net7.0/04. Walking.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/04. Walking/bin/Debug/net7.0/04. Walking.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/04. Walking/obj/Debug/net7.0/04. Walking.csproj.AssemblyReference.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/04. Walking/obj/Debug/net7.0/04. Walking.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/04. Walking/obj/Debug/net7.0/04. Walking.AssemblyInfoInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/04. Walking/obj/Debug/net7.0/04. Walking.AssemblyInfo.cs
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/04. Walking/obj/Debug/net7.0/04. Walking.csproj.CoreCompileInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/04. Walking/obj/Debug/net7.0/04. Walking.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/04. Walking/obj/Debug/net7.0/refint/04. Walking.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/04. Walking/obj/Debug/net7.0/04. Walking.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/04. Walking/obj/Debug/net7.0/04. Walking.genruntimeconfig.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/04. Walking/obj/Debug/net7.0/ref/04. Walking.dll

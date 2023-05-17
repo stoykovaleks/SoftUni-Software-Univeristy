@@ -1,0 +1,15 @@
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_03_Hristogram_/bin/Debug/net7.0/_03_Hristogram_
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_03_Hristogram_/bin/Debug/net7.0/_03_Hristogram_.deps.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_03_Hristogram_/bin/Debug/net7.0/_03_Hristogram_.runtimeconfig.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_03_Hristogram_/bin/Debug/net7.0/_03_Hristogram_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_03_Hristogram_/bin/Debug/net7.0/_03_Hristogram_.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_03_Hristogram_/obj/Debug/net7.0/_03_Hristogram_.csproj.AssemblyReference.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_03_Hristogram_/obj/Debug/net7.0/_03_Hristogram_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_03_Hristogram_/obj/Debug/net7.0/_03_Hristogram_.AssemblyInfoInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_03_Hristogram_/obj/Debug/net7.0/_03_Hristogram_.AssemblyInfo.cs
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_03_Hristogram_/obj/Debug/net7.0/_03_Hristogram_.csproj.CoreCompileInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_03_Hristogram_/obj/Debug/net7.0/_03_Hristogram_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_03_Hristogram_/obj/Debug/net7.0/refint/_03_Hristogram_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_03_Hristogram_/obj/Debug/net7.0/_03_Hristogram_.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_03_Hristogram_/obj/Debug/net7.0/_03_Hristogram_.genruntimeconfig.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_03_Hristogram_/obj/Debug/net7.0/ref/_03_Hristogram_.dll

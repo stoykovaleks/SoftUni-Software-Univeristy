@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{7D8F7640-6818-4DA3-821D-A0EAA3C0BD39}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="_06_World_Swim_Record_/Program.cs">
+    <Files>
+      <File FileName="_06_World_Swim_Record_/Program.cs" Line="27" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="_06_World_Swim_Record_" expanded="True">
+            <Node name="_06_World_Swim_Record_" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.__06__World__Swim__Record__ PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

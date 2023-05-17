@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{86B5E797-C7FB-46C5-8F47-76F7B5729F6F}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="02BonusScore/ToysShop/Program.cs">
+    <Files>
+      <File FileName="02BonusScore/Program.cs" Line="33" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="02BonusScore" expanded="True">
+            <Node name="02BonusScore" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.02BonusScore PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

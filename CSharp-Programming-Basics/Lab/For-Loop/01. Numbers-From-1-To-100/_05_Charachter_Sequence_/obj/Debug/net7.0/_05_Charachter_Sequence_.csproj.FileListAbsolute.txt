@@ -1,0 +1,15 @@
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_05_Charachter_Sequence_/bin/Debug/net7.0/_05_Charachter_Sequence_
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_05_Charachter_Sequence_/bin/Debug/net7.0/_05_Charachter_Sequence_.deps.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_05_Charachter_Sequence_/bin/Debug/net7.0/_05_Charachter_Sequence_.runtimeconfig.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_05_Charachter_Sequence_/bin/Debug/net7.0/_05_Charachter_Sequence_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_05_Charachter_Sequence_/bin/Debug/net7.0/_05_Charachter_Sequence_.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_05_Charachter_Sequence_/obj/Debug/net7.0/_05_Charachter_Sequence_.csproj.AssemblyReference.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_05_Charachter_Sequence_/obj/Debug/net7.0/_05_Charachter_Sequence_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_05_Charachter_Sequence_/obj/Debug/net7.0/_05_Charachter_Sequence_.AssemblyInfoInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_05_Charachter_Sequence_/obj/Debug/net7.0/_05_Charachter_Sequence_.AssemblyInfo.cs
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_05_Charachter_Sequence_/obj/Debug/net7.0/_05_Charachter_Sequence_.csproj.CoreCompileInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_05_Charachter_Sequence_/obj/Debug/net7.0/_05_Charachter_Sequence_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_05_Charachter_Sequence_/obj/Debug/net7.0/refint/_05_Charachter_Sequence_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_05_Charachter_Sequence_/obj/Debug/net7.0/_05_Charachter_Sequence_.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_05_Charachter_Sequence_/obj/Debug/net7.0/_05_Charachter_Sequence_.genruntimeconfig.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_05_Charachter_Sequence_/obj/Debug/net7.0/ref/_05_Charachter_Sequence_.dll

@@ -1,0 +1,15 @@
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/godzilaVsKingKong/godzilaVsKingKong/bin/Debug/net6.0/godzilaVsKingKong
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/godzilaVsKingKong/godzilaVsKingKong/bin/Debug/net6.0/godzilaVsKingKong.deps.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/godzilaVsKingKong/godzilaVsKingKong/bin/Debug/net6.0/godzilaVsKingKong.runtimeconfig.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/godzilaVsKingKong/godzilaVsKingKong/bin/Debug/net6.0/godzilaVsKingKong.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/godzilaVsKingKong/godzilaVsKingKong/bin/Debug/net6.0/godzilaVsKingKong.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/godzilaVsKingKong/godzilaVsKingKong/obj/Debug/net6.0/godzilaVsKingKong.csproj.AssemblyReference.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/godzilaVsKingKong/godzilaVsKingKong/obj/Debug/net6.0/godzilaVsKingKong.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/godzilaVsKingKong/godzilaVsKingKong/obj/Debug/net6.0/godzilaVsKingKong.AssemblyInfoInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/godzilaVsKingKong/godzilaVsKingKong/obj/Debug/net6.0/godzilaVsKingKong.AssemblyInfo.cs
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/godzilaVsKingKong/godzilaVsKingKong/obj/Debug/net6.0/godzilaVsKingKong.csproj.CoreCompileInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/godzilaVsKingKong/godzilaVsKingKong/obj/Debug/net6.0/godzilaVsKingKong.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/godzilaVsKingKong/godzilaVsKingKong/obj/Debug/net6.0/refint/godzilaVsKingKong.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/godzilaVsKingKong/godzilaVsKingKong/obj/Debug/net6.0/godzilaVsKingKong.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/godzilaVsKingKong/godzilaVsKingKong/obj/Debug/net6.0/godzilaVsKingKong.genruntimeconfig.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/godzilaVsKingKong/godzilaVsKingKong/obj/Debug/net6.0/ref/godzilaVsKingKong.dll

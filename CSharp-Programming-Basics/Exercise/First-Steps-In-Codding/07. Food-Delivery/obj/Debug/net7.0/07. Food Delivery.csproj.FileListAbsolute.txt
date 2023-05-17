@@ -1,0 +1,15 @@
+/Users/stoykov/Projects/USD to BGN/07. Food Delivery/bin/Debug/net7.0/07. Food Delivery
+/Users/stoykov/Projects/USD to BGN/07. Food Delivery/bin/Debug/net7.0/07. Food Delivery.deps.json
+/Users/stoykov/Projects/USD to BGN/07. Food Delivery/bin/Debug/net7.0/07. Food Delivery.runtimeconfig.json
+/Users/stoykov/Projects/USD to BGN/07. Food Delivery/bin/Debug/net7.0/07. Food Delivery.dll
+/Users/stoykov/Projects/USD to BGN/07. Food Delivery/bin/Debug/net7.0/07. Food Delivery.pdb
+/Users/stoykov/Projects/USD to BGN/07. Food Delivery/obj/Debug/net7.0/07. Food Delivery.csproj.AssemblyReference.cache
+/Users/stoykov/Projects/USD to BGN/07. Food Delivery/obj/Debug/net7.0/07. Food Delivery.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Projects/USD to BGN/07. Food Delivery/obj/Debug/net7.0/07. Food Delivery.AssemblyInfoInputs.cache
+/Users/stoykov/Projects/USD to BGN/07. Food Delivery/obj/Debug/net7.0/07. Food Delivery.AssemblyInfo.cs
+/Users/stoykov/Projects/USD to BGN/07. Food Delivery/obj/Debug/net7.0/07. Food Delivery.csproj.CoreCompileInputs.cache
+/Users/stoykov/Projects/USD to BGN/07. Food Delivery/obj/Debug/net7.0/07. Food Delivery.dll
+/Users/stoykov/Projects/USD to BGN/07. Food Delivery/obj/Debug/net7.0/refint/07. Food Delivery.dll
+/Users/stoykov/Projects/USD to BGN/07. Food Delivery/obj/Debug/net7.0/07. Food Delivery.pdb
+/Users/stoykov/Projects/USD to BGN/07. Food Delivery/obj/Debug/net7.0/07. Food Delivery.genruntimeconfig.cache
+/Users/stoykov/Projects/USD to BGN/07. Food Delivery/obj/Debug/net7.0/ref/07. Food Delivery.dll

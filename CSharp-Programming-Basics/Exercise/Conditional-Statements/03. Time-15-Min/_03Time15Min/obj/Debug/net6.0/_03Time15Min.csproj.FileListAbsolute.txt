@@ -1,0 +1,15 @@
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_03Time15Min/_03Time15Min/bin/Debug/net6.0/_03Time15Min
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_03Time15Min/_03Time15Min/bin/Debug/net6.0/_03Time15Min.deps.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_03Time15Min/_03Time15Min/bin/Debug/net6.0/_03Time15Min.runtimeconfig.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_03Time15Min/_03Time15Min/bin/Debug/net6.0/_03Time15Min.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_03Time15Min/_03Time15Min/bin/Debug/net6.0/_03Time15Min.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_03Time15Min/_03Time15Min/obj/Debug/net6.0/_03Time15Min.csproj.AssemblyReference.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_03Time15Min/_03Time15Min/obj/Debug/net6.0/_03Time15Min.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_03Time15Min/_03Time15Min/obj/Debug/net6.0/_03Time15Min.AssemblyInfoInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_03Time15Min/_03Time15Min/obj/Debug/net6.0/_03Time15Min.AssemblyInfo.cs
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_03Time15Min/_03Time15Min/obj/Debug/net6.0/_03Time15Min.csproj.CoreCompileInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_03Time15Min/_03Time15Min/obj/Debug/net6.0/_03Time15Min.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_03Time15Min/_03Time15Min/obj/Debug/net6.0/refint/_03Time15Min.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_03Time15Min/_03Time15Min/obj/Debug/net6.0/_03Time15Min.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_03Time15Min/_03Time15Min/obj/Debug/net6.0/_03Time15Min.genruntimeconfig.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_03Time15Min/_03Time15Min/obj/Debug/net6.0/ref/_03Time15Min.dll

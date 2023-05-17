@@ -1,0 +1,15 @@
+/Users/stoykov/Projects/_01_ReadText_/_05_Account_Balance_/bin/Debug/net7.0/_05_Account_Balance_
+/Users/stoykov/Projects/_01_ReadText_/_05_Account_Balance_/bin/Debug/net7.0/_05_Account_Balance_.deps.json
+/Users/stoykov/Projects/_01_ReadText_/_05_Account_Balance_/bin/Debug/net7.0/_05_Account_Balance_.runtimeconfig.json
+/Users/stoykov/Projects/_01_ReadText_/_05_Account_Balance_/bin/Debug/net7.0/_05_Account_Balance_.dll
+/Users/stoykov/Projects/_01_ReadText_/_05_Account_Balance_/bin/Debug/net7.0/_05_Account_Balance_.pdb
+/Users/stoykov/Projects/_01_ReadText_/_05_Account_Balance_/obj/Debug/net7.0/_05_Account_Balance_.csproj.AssemblyReference.cache
+/Users/stoykov/Projects/_01_ReadText_/_05_Account_Balance_/obj/Debug/net7.0/_05_Account_Balance_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Projects/_01_ReadText_/_05_Account_Balance_/obj/Debug/net7.0/_05_Account_Balance_.AssemblyInfoInputs.cache
+/Users/stoykov/Projects/_01_ReadText_/_05_Account_Balance_/obj/Debug/net7.0/_05_Account_Balance_.AssemblyInfo.cs
+/Users/stoykov/Projects/_01_ReadText_/_05_Account_Balance_/obj/Debug/net7.0/_05_Account_Balance_.csproj.CoreCompileInputs.cache
+/Users/stoykov/Projects/_01_ReadText_/_05_Account_Balance_/obj/Debug/net7.0/_05_Account_Balance_.dll
+/Users/stoykov/Projects/_01_ReadText_/_05_Account_Balance_/obj/Debug/net7.0/refint/_05_Account_Balance_.dll
+/Users/stoykov/Projects/_01_ReadText_/_05_Account_Balance_/obj/Debug/net7.0/_05_Account_Balance_.pdb
+/Users/stoykov/Projects/_01_ReadText_/_05_Account_Balance_/obj/Debug/net7.0/_05_Account_Balance_.genruntimeconfig.cache
+/Users/stoykov/Projects/_01_ReadText_/_05_Account_Balance_/obj/Debug/net7.0/ref/_05_Account_Balance_.dll

@@ -1,0 +1,15 @@
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/01SumSeconds/01SumSeconds/bin/Debug/net6.0/01SumSeconds
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/01SumSeconds/01SumSeconds/bin/Debug/net6.0/01SumSeconds.deps.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/01SumSeconds/01SumSeconds/bin/Debug/net6.0/01SumSeconds.runtimeconfig.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/01SumSeconds/01SumSeconds/bin/Debug/net6.0/01SumSeconds.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/01SumSeconds/01SumSeconds/bin/Debug/net6.0/01SumSeconds.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/01SumSeconds/01SumSeconds/obj/Debug/net6.0/01SumSeconds.csproj.AssemblyReference.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/01SumSeconds/01SumSeconds/obj/Debug/net6.0/01SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/01SumSeconds/01SumSeconds/obj/Debug/net6.0/01SumSeconds.AssemblyInfoInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/01SumSeconds/01SumSeconds/obj/Debug/net6.0/01SumSeconds.AssemblyInfo.cs
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/01SumSeconds/01SumSeconds/obj/Debug/net6.0/01SumSeconds.csproj.CoreCompileInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/01SumSeconds/01SumSeconds/obj/Debug/net6.0/01SumSeconds.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/01SumSeconds/01SumSeconds/obj/Debug/net6.0/refint/01SumSeconds.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/01SumSeconds/01SumSeconds/obj/Debug/net6.0/01SumSeconds.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/01SumSeconds/01SumSeconds/obj/Debug/net6.0/01SumSeconds.genruntimeconfig.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/01SumSeconds/01SumSeconds/obj/Debug/net6.0/ref/01SumSeconds.dll

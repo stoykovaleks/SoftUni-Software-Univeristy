@@ -1,0 +1,15 @@
+/Users/stoykov/Projects/USD to BGN/09. Fish Tank/bin/Debug/net7.0/09. Fish Tank
+/Users/stoykov/Projects/USD to BGN/09. Fish Tank/bin/Debug/net7.0/09. Fish Tank.deps.json
+/Users/stoykov/Projects/USD to BGN/09. Fish Tank/bin/Debug/net7.0/09. Fish Tank.runtimeconfig.json
+/Users/stoykov/Projects/USD to BGN/09. Fish Tank/bin/Debug/net7.0/09. Fish Tank.dll
+/Users/stoykov/Projects/USD to BGN/09. Fish Tank/bin/Debug/net7.0/09. Fish Tank.pdb
+/Users/stoykov/Projects/USD to BGN/09. Fish Tank/obj/Debug/net7.0/09. Fish Tank.csproj.AssemblyReference.cache
+/Users/stoykov/Projects/USD to BGN/09. Fish Tank/obj/Debug/net7.0/09. Fish Tank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Projects/USD to BGN/09. Fish Tank/obj/Debug/net7.0/09. Fish Tank.AssemblyInfoInputs.cache
+/Users/stoykov/Projects/USD to BGN/09. Fish Tank/obj/Debug/net7.0/09. Fish Tank.AssemblyInfo.cs
+/Users/stoykov/Projects/USD to BGN/09. Fish Tank/obj/Debug/net7.0/09. Fish Tank.csproj.CoreCompileInputs.cache
+/Users/stoykov/Projects/USD to BGN/09. Fish Tank/obj/Debug/net7.0/09. Fish Tank.dll
+/Users/stoykov/Projects/USD to BGN/09. Fish Tank/obj/Debug/net7.0/refint/09. Fish Tank.dll
+/Users/stoykov/Projects/USD to BGN/09. Fish Tank/obj/Debug/net7.0/09. Fish Tank.pdb
+/Users/stoykov/Projects/USD to BGN/09. Fish Tank/obj/Debug/net7.0/09. Fish Tank.genruntimeconfig.cache
+/Users/stoykov/Projects/USD to BGN/09. Fish Tank/obj/Debug/net7.0/ref/09. Fish Tank.dll

@@ -1,0 +1,15 @@
+/Users/stoykov/Projects/USD to BGN/04. Vacation Books List/bin/Debug/net7.0/04. Vacation Books List
+/Users/stoykov/Projects/USD to BGN/04. Vacation Books List/bin/Debug/net7.0/04. Vacation Books List.deps.json
+/Users/stoykov/Projects/USD to BGN/04. Vacation Books List/bin/Debug/net7.0/04. Vacation Books List.runtimeconfig.json
+/Users/stoykov/Projects/USD to BGN/04. Vacation Books List/bin/Debug/net7.0/04. Vacation Books List.dll
+/Users/stoykov/Projects/USD to BGN/04. Vacation Books List/bin/Debug/net7.0/04. Vacation Books List.pdb
+/Users/stoykov/Projects/USD to BGN/04. Vacation Books List/obj/Debug/net7.0/04. Vacation Books List.csproj.AssemblyReference.cache
+/Users/stoykov/Projects/USD to BGN/04. Vacation Books List/obj/Debug/net7.0/04. Vacation Books List.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Projects/USD to BGN/04. Vacation Books List/obj/Debug/net7.0/04. Vacation Books List.AssemblyInfoInputs.cache
+/Users/stoykov/Projects/USD to BGN/04. Vacation Books List/obj/Debug/net7.0/04. Vacation Books List.AssemblyInfo.cs
+/Users/stoykov/Projects/USD to BGN/04. Vacation Books List/obj/Debug/net7.0/04. Vacation Books List.csproj.CoreCompileInputs.cache
+/Users/stoykov/Projects/USD to BGN/04. Vacation Books List/obj/Debug/net7.0/04. Vacation Books List.dll
+/Users/stoykov/Projects/USD to BGN/04. Vacation Books List/obj/Debug/net7.0/refint/04. Vacation Books List.dll
+/Users/stoykov/Projects/USD to BGN/04. Vacation Books List/obj/Debug/net7.0/04. Vacation Books List.pdb
+/Users/stoykov/Projects/USD to BGN/04. Vacation Books List/obj/Debug/net7.0/04. Vacation Books List.genruntimeconfig.cache
+/Users/stoykov/Projects/USD to BGN/04. Vacation Books List/obj/Debug/net7.0/ref/04. Vacation Books List.dll

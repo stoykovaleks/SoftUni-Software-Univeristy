@@ -1,0 +1,15 @@
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/_03_Combinations_/bin/Debug/net7.0/_03_Combinations_
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/_03_Combinations_/bin/Debug/net7.0/_03_Combinations_.deps.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/_03_Combinations_/bin/Debug/net7.0/_03_Combinations_.runtimeconfig.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/_03_Combinations_/bin/Debug/net7.0/_03_Combinations_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/_03_Combinations_/bin/Debug/net7.0/_03_Combinations_.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/_03_Combinations_/obj/Debug/net7.0/_03_Combinations_.csproj.AssemblyReference.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/_03_Combinations_/obj/Debug/net7.0/_03_Combinations_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/_03_Combinations_/obj/Debug/net7.0/_03_Combinations_.AssemblyInfoInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/_03_Combinations_/obj/Debug/net7.0/_03_Combinations_.AssemblyInfo.cs
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/_03_Combinations_/obj/Debug/net7.0/_03_Combinations_.csproj.CoreCompileInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/_03_Combinations_/obj/Debug/net7.0/_03_Combinations_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/_03_Combinations_/obj/Debug/net7.0/refint/_03_Combinations_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/_03_Combinations_/obj/Debug/net7.0/_03_Combinations_.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/_03_Combinations_/obj/Debug/net7.0/_03_Combinations_.genruntimeconfig.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/_03_Combinations_/obj/Debug/net7.0/ref/_03_Combinations_.dll

@@ -1,0 +1,15 @@
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/02. Greater Number/bin/Debug/net7.0/02. Greater Number
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/02. Greater Number/bin/Debug/net7.0/02. Greater Number.deps.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/02. Greater Number/bin/Debug/net7.0/02. Greater Number.runtimeconfig.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/02. Greater Number/bin/Debug/net7.0/02. Greater Number.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/02. Greater Number/bin/Debug/net7.0/02. Greater Number.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/02. Greater Number/obj/Debug/net7.0/02. Greater Number.csproj.AssemblyReference.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/02. Greater Number/obj/Debug/net7.0/02. Greater Number.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/02. Greater Number/obj/Debug/net7.0/02. Greater Number.AssemblyInfoInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/02. Greater Number/obj/Debug/net7.0/02. Greater Number.AssemblyInfo.cs
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/02. Greater Number/obj/Debug/net7.0/02. Greater Number.csproj.CoreCompileInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/02. Greater Number/obj/Debug/net7.0/02. Greater Number.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/02. Greater Number/obj/Debug/net7.0/refint/02. Greater Number.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/02. Greater Number/obj/Debug/net7.0/02. Greater Number.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/02. Greater Number/obj/Debug/net7.0/02. Greater Number.genruntimeconfig.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/02. Greater Number/obj/Debug/net7.0/ref/02. Greater Number.dll

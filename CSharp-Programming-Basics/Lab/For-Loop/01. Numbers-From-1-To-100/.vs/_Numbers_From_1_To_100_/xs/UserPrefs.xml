@@ -1,0 +1,55 @@
+﻿<Properties StartupConfiguration="{CBA1867E-6955-48F0-84EB-4802A920B43A}|Default">
+  <MonoDevelop.Ide.ItemProperties.__10__OddOrEvenSum__ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__09__Left___226__Right__Sum__ FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.__08__Number__Sequence__ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__05__Charachter__Sequence__ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__02__NumTo1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__06__Vowels__Sum__ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__02__N__To__1__ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="_10_OddOrEvenSum_/Program.cs">
+    <Files>
+      <File FileName="_For_Loops_Lab_/Program.cs" />
+      <File FileName="_02_NumTo1/Program.cs" />
+      <File FileName="_03_Nums_1_to_N_3_/Program.cs" />
+      <File FileName="_03_Even_Power_Of_2_/Program.cs" />
+      <File FileName="_05_Charachter_Sequence_/Program.cs" />
+      <File FileName="_06_Vowels_Sum_/Program.cs" />
+      <File FileName="_07_SumNumbers_/Program.cs" />
+      <File FileName="_08_Number_Sequence_/Program.cs" />
+      <File FileName="_09_Left_&amp;_Right_Sum_/Program.cs" Line="1" Column="1" />
+      <File FileName="_10_OddOrEvenSum_/Program.cs" Line="23" Column="18" />
+      <File FileName="_02_N_To_1_/Program.cs" Line="12" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="_Numbers_From_1_To_100_" expanded="True">
+            <Node name="_02_N_To_1_" expanded="True" />
+            <Node name="_02_NumTo1" expanded="True" />
+            <Node name="_03_Even_Power_Of_2_" expanded="True" />
+            <Node name="_03_Nums_1_to_N_3_" expanded="True" />
+            <Node name="_05_Charachter_Sequence_" expanded="True" />
+            <Node name="_06_Vowels_Sum_" expanded="True" />
+            <Node name="_07_SumNumbers_" expanded="True" />
+            <Node name="_08_Number_Sequence_" expanded="True" />
+            <Node name="_09_Left_&amp;_Right_Sum_" expanded="True" />
+            <Node name="_10_OddOrEvenSum_" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="_For_Loops_Lab_" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.__03__Even__Power__Of__2__ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__03__Nums__1__to__N__3__ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__For__Loops__Lab__ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.__07__SumNumbers__ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

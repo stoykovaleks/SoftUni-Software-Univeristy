@@ -1,0 +1,15 @@
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/03. Even or Odd/bin/Debug/net7.0/03. Even or Odd
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/03. Even or Odd/bin/Debug/net7.0/03. Even or Odd.deps.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/03. Even or Odd/bin/Debug/net7.0/03. Even or Odd.runtimeconfig.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/03. Even or Odd/bin/Debug/net7.0/03. Even or Odd.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/03. Even or Odd/bin/Debug/net7.0/03. Even or Odd.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/03. Even or Odd/obj/Debug/net7.0/03. Even or Odd.csproj.AssemblyReference.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/03. Even or Odd/obj/Debug/net7.0/03. Even or Odd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/03. Even or Odd/obj/Debug/net7.0/03. Even or Odd.AssemblyInfoInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/03. Even or Odd/obj/Debug/net7.0/03. Even or Odd.AssemblyInfo.cs
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/03. Even or Odd/obj/Debug/net7.0/03. Even or Odd.csproj.CoreCompileInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/03. Even or Odd/obj/Debug/net7.0/03. Even or Odd.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/03. Even or Odd/obj/Debug/net7.0/refint/03. Even or Odd.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/03. Even or Odd/obj/Debug/net7.0/03. Even or Odd.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/03. Even or Odd/obj/Debug/net7.0/03. Even or Odd.genruntimeconfig.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/03. Even or Odd/obj/Debug/net7.0/ref/03. Even or Odd.dll

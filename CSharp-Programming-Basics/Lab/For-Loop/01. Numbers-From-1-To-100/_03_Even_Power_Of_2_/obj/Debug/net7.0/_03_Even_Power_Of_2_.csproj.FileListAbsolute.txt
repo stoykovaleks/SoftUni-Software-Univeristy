@@ -1,0 +1,15 @@
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_03_Even_Power_Of_2_/obj/Debug/net7.0/_03_Even_Power_Of_2_.csproj.AssemblyReference.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_03_Even_Power_Of_2_/obj/Debug/net7.0/_03_Even_Power_Of_2_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_03_Even_Power_Of_2_/obj/Debug/net7.0/_03_Even_Power_Of_2_.AssemblyInfoInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_03_Even_Power_Of_2_/obj/Debug/net7.0/_03_Even_Power_Of_2_.AssemblyInfo.cs
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_03_Even_Power_Of_2_/obj/Debug/net7.0/_03_Even_Power_Of_2_.csproj.CoreCompileInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_03_Even_Power_Of_2_/bin/Debug/net7.0/_03_Even_Power_Of_2_
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_03_Even_Power_Of_2_/bin/Debug/net7.0/_03_Even_Power_Of_2_.deps.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_03_Even_Power_Of_2_/bin/Debug/net7.0/_03_Even_Power_Of_2_.runtimeconfig.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_03_Even_Power_Of_2_/bin/Debug/net7.0/_03_Even_Power_Of_2_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_03_Even_Power_Of_2_/bin/Debug/net7.0/_03_Even_Power_Of_2_.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_03_Even_Power_Of_2_/obj/Debug/net7.0/_03_Even_Power_Of_2_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_03_Even_Power_Of_2_/obj/Debug/net7.0/refint/_03_Even_Power_Of_2_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_03_Even_Power_Of_2_/obj/Debug/net7.0/_03_Even_Power_Of_2_.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_03_Even_Power_Of_2_/obj/Debug/net7.0/_03_Even_Power_Of_2_.genruntimeconfig.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_03_Even_Power_Of_2_/obj/Debug/net7.0/ref/_03_Even_Power_Of_2_.dll

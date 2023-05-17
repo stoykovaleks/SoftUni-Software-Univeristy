@@ -1,0 +1,15 @@
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/05. Coins/bin/Debug/net7.0/05. Coins
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/05. Coins/bin/Debug/net7.0/05. Coins.deps.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/05. Coins/bin/Debug/net7.0/05. Coins.runtimeconfig.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/05. Coins/bin/Debug/net7.0/05. Coins.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/05. Coins/bin/Debug/net7.0/05. Coins.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/05. Coins/obj/Debug/net7.0/05. Coins.csproj.AssemblyReference.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/05. Coins/obj/Debug/net7.0/05. Coins.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/05. Coins/obj/Debug/net7.0/05. Coins.AssemblyInfoInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/05. Coins/obj/Debug/net7.0/05. Coins.AssemblyInfo.cs
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/05. Coins/obj/Debug/net7.0/05. Coins.csproj.CoreCompileInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/05. Coins/obj/Debug/net7.0/05. Coins.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/05. Coins/obj/Debug/net7.0/refint/05. Coins.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/05. Coins/obj/Debug/net7.0/05. Coins.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/05. Coins/obj/Debug/net7.0/05. Coins.genruntimeconfig.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/05. Coins/obj/Debug/net7.0/ref/05. Coins.dll

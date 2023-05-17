@@ -1,0 +1,5 @@
+/Users/stoykov/Downloads/_06_Max_Number_
+/Users/stoykov/Downloads/_06_Max_Number_.dll
+/Users/stoykov/Downloads/_06_Max_Number_.deps.json
+/Users/stoykov/Downloads/_06_Max_Number_.runtimeconfig.json
+/Users/stoykov/Downloads/_06_Max_Number_.pdb

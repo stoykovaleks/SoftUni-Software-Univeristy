@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{1D6F4E71-BD7F-4BE9-9074-3A535C25E35A}|Default">
+  <MonoDevelop.Ide.ItemProperties.__02__Password__ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__03__Sum__Numbers__ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__06__Max__Number__ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.While_220Loop_220-_220Lab PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="_08_Graduation_/Program.cs">
+    <Files>
+      <File FileName="While Loop - Lab/Program.cs" Line="15" Column="1" />
+      <File FileName="_02_Password_/Program.cs" Line="17" Column="40" />
+      <File FileName="_03_Sum_Numbers_/Program.cs" Line="17" Column="36" />
+      <File FileName="04. Sequence 2k+1/Program.cs" Line="10" Column="26" />
+      <File FileName="_05_Account_Balance_/Program.cs" Line="18" Column="27" />
+      <File FileName="_06_Max_Number_/Program.cs" Line="25" Column="2" />
+      <File FileName="_07_Min_Number_/Program.cs" Line="18" Column="41" />
+      <File FileName="_08_Graduation_/Program.cs" Line="31" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="_01_ReadText_" expanded="True">
+            <Node name="_02_Password_" expanded="True" />
+            <Node name="_03_Sum_Numbers_" expanded="True" />
+            <Node name="_05_Account_Balance_" expanded="True" />
+            <Node name="_06_Max_Number_" expanded="True" />
+            <Node name="_07_Min_Number_" expanded="True" />
+            <Node name="_08_Graduation_" expanded="True" />
+            <Node name="04. Sequence 2k+1" expanded="True" />
+            <Node name="While Loop - Lab" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.__05__Account__Balance__ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.__07__Min__Number__ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/stoykov/Projects/_01_ReadText_/_06_Max_Number_/Program.cs" relfile="_06_Max_Number_/Program.cs" line="12" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.04._220Sequence_2202k_22B1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__08__Graduation__ FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

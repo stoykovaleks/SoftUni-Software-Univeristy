@@ -1,0 +1,15 @@
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_07_SumNumbers_/bin/Debug/net7.0/_07_SumNumbers_
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_07_SumNumbers_/bin/Debug/net7.0/_07_SumNumbers_.deps.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_07_SumNumbers_/bin/Debug/net7.0/_07_SumNumbers_.runtimeconfig.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_07_SumNumbers_/bin/Debug/net7.0/_07_SumNumbers_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_07_SumNumbers_/bin/Debug/net7.0/_07_SumNumbers_.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_07_SumNumbers_/obj/Debug/net7.0/_07_SumNumbers_.csproj.AssemblyReference.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_07_SumNumbers_/obj/Debug/net7.0/_07_SumNumbers_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_07_SumNumbers_/obj/Debug/net7.0/_07_SumNumbers_.AssemblyInfoInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_07_SumNumbers_/obj/Debug/net7.0/_07_SumNumbers_.AssemblyInfo.cs
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_07_SumNumbers_/obj/Debug/net7.0/_07_SumNumbers_.csproj.CoreCompileInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_07_SumNumbers_/obj/Debug/net7.0/_07_SumNumbers_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_07_SumNumbers_/obj/Debug/net7.0/refint/_07_SumNumbers_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_07_SumNumbers_/obj/Debug/net7.0/_07_SumNumbers_.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_07_SumNumbers_/obj/Debug/net7.0/_07_SumNumbers_.genruntimeconfig.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_07_SumNumbers_/obj/Debug/net7.0/ref/_07_SumNumbers_.dll

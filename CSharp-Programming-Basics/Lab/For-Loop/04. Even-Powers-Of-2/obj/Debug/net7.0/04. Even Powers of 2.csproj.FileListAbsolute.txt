@@ -1,0 +1,15 @@
+/Users/stoykov/Projects/For Loop - Lab/04. Even Powers of 2/obj/Debug/net7.0/04. Even Powers of 2.csproj.AssemblyReference.cache
+/Users/stoykov/Projects/For Loop - Lab/04. Even Powers of 2/obj/Debug/net7.0/04. Even Powers of 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Projects/For Loop - Lab/04. Even Powers of 2/obj/Debug/net7.0/04. Even Powers of 2.AssemblyInfoInputs.cache
+/Users/stoykov/Projects/For Loop - Lab/04. Even Powers of 2/obj/Debug/net7.0/04. Even Powers of 2.AssemblyInfo.cs
+/Users/stoykov/Projects/For Loop - Lab/04. Even Powers of 2/obj/Debug/net7.0/04. Even Powers of 2.csproj.CoreCompileInputs.cache
+/Users/stoykov/Projects/For Loop - Lab/04. Even Powers of 2/bin/Debug/net7.0/04. Even Powers of 2
+/Users/stoykov/Projects/For Loop - Lab/04. Even Powers of 2/bin/Debug/net7.0/04. Even Powers of 2.deps.json
+/Users/stoykov/Projects/For Loop - Lab/04. Even Powers of 2/bin/Debug/net7.0/04. Even Powers of 2.runtimeconfig.json
+/Users/stoykov/Projects/For Loop - Lab/04. Even Powers of 2/bin/Debug/net7.0/04. Even Powers of 2.dll
+/Users/stoykov/Projects/For Loop - Lab/04. Even Powers of 2/bin/Debug/net7.0/04. Even Powers of 2.pdb
+/Users/stoykov/Projects/For Loop - Lab/04. Even Powers of 2/obj/Debug/net7.0/04. Even Powers of 2.dll
+/Users/stoykov/Projects/For Loop - Lab/04. Even Powers of 2/obj/Debug/net7.0/refint/04. Even Powers of 2.dll
+/Users/stoykov/Projects/For Loop - Lab/04. Even Powers of 2/obj/Debug/net7.0/04. Even Powers of 2.pdb
+/Users/stoykov/Projects/For Loop - Lab/04. Even Powers of 2/obj/Debug/net7.0/04. Even Powers of 2.genruntimeconfig.cache
+/Users/stoykov/Projects/For Loop - Lab/04. Even Powers of 2/obj/Debug/net7.0/ref/04. Even Powers of 2.dll

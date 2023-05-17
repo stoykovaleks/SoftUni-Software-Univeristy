@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "_05_Account_Balance_/1.0.0": {
+        "runtime": {
+          "_05_Account_Balance_.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_05_Account_Balance_/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

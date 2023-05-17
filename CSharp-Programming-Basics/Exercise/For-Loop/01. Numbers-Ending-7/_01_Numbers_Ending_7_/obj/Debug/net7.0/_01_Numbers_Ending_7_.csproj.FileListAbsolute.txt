@@ -1,0 +1,15 @@
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_01_Numbers_Ending_7_/bin/Debug/net7.0/_01_Numbers_Ending_7_
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_01_Numbers_Ending_7_/bin/Debug/net7.0/_01_Numbers_Ending_7_.deps.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_01_Numbers_Ending_7_/bin/Debug/net7.0/_01_Numbers_Ending_7_.runtimeconfig.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_01_Numbers_Ending_7_/bin/Debug/net7.0/_01_Numbers_Ending_7_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_01_Numbers_Ending_7_/bin/Debug/net7.0/_01_Numbers_Ending_7_.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_01_Numbers_Ending_7_/obj/Debug/net7.0/_01_Numbers_Ending_7_.csproj.AssemblyReference.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_01_Numbers_Ending_7_/obj/Debug/net7.0/_01_Numbers_Ending_7_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_01_Numbers_Ending_7_/obj/Debug/net7.0/_01_Numbers_Ending_7_.AssemblyInfoInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_01_Numbers_Ending_7_/obj/Debug/net7.0/_01_Numbers_Ending_7_.AssemblyInfo.cs
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_01_Numbers_Ending_7_/obj/Debug/net7.0/_01_Numbers_Ending_7_.csproj.CoreCompileInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_01_Numbers_Ending_7_/obj/Debug/net7.0/_01_Numbers_Ending_7_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_01_Numbers_Ending_7_/obj/Debug/net7.0/refint/_01_Numbers_Ending_7_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_01_Numbers_Ending_7_/obj/Debug/net7.0/_01_Numbers_Ending_7_.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_01_Numbers_Ending_7_/obj/Debug/net7.0/_01_Numbers_Ending_7_.genruntimeconfig.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_01_Numbers_Ending_7_/obj/Debug/net7.0/ref/_01_Numbers_Ending_7_.dll

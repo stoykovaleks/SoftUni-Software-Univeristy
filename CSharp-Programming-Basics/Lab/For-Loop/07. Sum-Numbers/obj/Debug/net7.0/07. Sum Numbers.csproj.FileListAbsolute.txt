@@ -1,0 +1,15 @@
+/Users/stoykov/Projects/For Loop - Lab/07. Sum Numbers/bin/Debug/net7.0/07. Sum Numbers
+/Users/stoykov/Projects/For Loop - Lab/07. Sum Numbers/bin/Debug/net7.0/07. Sum Numbers.deps.json
+/Users/stoykov/Projects/For Loop - Lab/07. Sum Numbers/bin/Debug/net7.0/07. Sum Numbers.runtimeconfig.json
+/Users/stoykov/Projects/For Loop - Lab/07. Sum Numbers/bin/Debug/net7.0/07. Sum Numbers.dll
+/Users/stoykov/Projects/For Loop - Lab/07. Sum Numbers/bin/Debug/net7.0/07. Sum Numbers.pdb
+/Users/stoykov/Projects/For Loop - Lab/07. Sum Numbers/obj/Debug/net7.0/07. Sum Numbers.csproj.AssemblyReference.cache
+/Users/stoykov/Projects/For Loop - Lab/07. Sum Numbers/obj/Debug/net7.0/07. Sum Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Projects/For Loop - Lab/07. Sum Numbers/obj/Debug/net7.0/07. Sum Numbers.AssemblyInfoInputs.cache
+/Users/stoykov/Projects/For Loop - Lab/07. Sum Numbers/obj/Debug/net7.0/07. Sum Numbers.AssemblyInfo.cs
+/Users/stoykov/Projects/For Loop - Lab/07. Sum Numbers/obj/Debug/net7.0/07. Sum Numbers.csproj.CoreCompileInputs.cache
+/Users/stoykov/Projects/For Loop - Lab/07. Sum Numbers/obj/Debug/net7.0/07. Sum Numbers.dll
+/Users/stoykov/Projects/For Loop - Lab/07. Sum Numbers/obj/Debug/net7.0/refint/07. Sum Numbers.dll
+/Users/stoykov/Projects/For Loop - Lab/07. Sum Numbers/obj/Debug/net7.0/07. Sum Numbers.pdb
+/Users/stoykov/Projects/For Loop - Lab/07. Sum Numbers/obj/Debug/net7.0/07. Sum Numbers.genruntimeconfig.cache
+/Users/stoykov/Projects/For Loop - Lab/07. Sum Numbers/obj/Debug/net7.0/ref/07. Sum Numbers.dll

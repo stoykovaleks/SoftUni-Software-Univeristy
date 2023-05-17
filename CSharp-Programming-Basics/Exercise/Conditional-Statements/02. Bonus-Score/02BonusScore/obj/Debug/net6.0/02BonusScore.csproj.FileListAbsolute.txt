@@ -1,0 +1,15 @@
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/02BonusScore/02BonusScore/bin/Debug/net6.0/02BonusScore
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/02BonusScore/02BonusScore/bin/Debug/net6.0/02BonusScore.deps.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/02BonusScore/02BonusScore/bin/Debug/net6.0/02BonusScore.runtimeconfig.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/02BonusScore/02BonusScore/bin/Debug/net6.0/02BonusScore.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/02BonusScore/02BonusScore/bin/Debug/net6.0/02BonusScore.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/02BonusScore/02BonusScore/obj/Debug/net6.0/02BonusScore.csproj.AssemblyReference.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/02BonusScore/02BonusScore/obj/Debug/net6.0/02BonusScore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/02BonusScore/02BonusScore/obj/Debug/net6.0/02BonusScore.AssemblyInfoInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/02BonusScore/02BonusScore/obj/Debug/net6.0/02BonusScore.AssemblyInfo.cs
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/02BonusScore/02BonusScore/obj/Debug/net6.0/02BonusScore.csproj.CoreCompileInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/02BonusScore/02BonusScore/obj/Debug/net6.0/02BonusScore.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/02BonusScore/02BonusScore/obj/Debug/net6.0/refint/02BonusScore.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/02BonusScore/02BonusScore/obj/Debug/net6.0/02BonusScore.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/02BonusScore/02BonusScore/obj/Debug/net6.0/02BonusScore.genruntimeconfig.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/02BonusScore/02BonusScore/obj/Debug/net6.0/ref/02BonusScore.dll

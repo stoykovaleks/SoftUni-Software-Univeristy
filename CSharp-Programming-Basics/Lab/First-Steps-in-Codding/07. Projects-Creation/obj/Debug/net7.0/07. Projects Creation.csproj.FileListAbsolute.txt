@@ -1,0 +1,15 @@
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/07. Projects Creation/bin/Debug/net7.0/07. Projects Creation
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/07. Projects Creation/bin/Debug/net7.0/07. Projects Creation.deps.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/07. Projects Creation/bin/Debug/net7.0/07. Projects Creation.runtimeconfig.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/07. Projects Creation/bin/Debug/net7.0/07. Projects Creation.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/07. Projects Creation/bin/Debug/net7.0/07. Projects Creation.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/07. Projects Creation/obj/Debug/net7.0/07. Projects Creation.csproj.AssemblyReference.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/07. Projects Creation/obj/Debug/net7.0/07. Projects Creation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/07. Projects Creation/obj/Debug/net7.0/07. Projects Creation.AssemblyInfoInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/07. Projects Creation/obj/Debug/net7.0/07. Projects Creation.AssemblyInfo.cs
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/07. Projects Creation/obj/Debug/net7.0/07. Projects Creation.csproj.CoreCompileInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/07. Projects Creation/obj/Debug/net7.0/07. Projects Creation.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/07. Projects Creation/obj/Debug/net7.0/refint/07. Projects Creation.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/07. Projects Creation/obj/Debug/net7.0/07. Projects Creation.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/07. Projects Creation/obj/Debug/net7.0/07. Projects Creation.genruntimeconfig.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/07. Projects Creation/obj/Debug/net7.0/ref/07. Projects Creation.dll

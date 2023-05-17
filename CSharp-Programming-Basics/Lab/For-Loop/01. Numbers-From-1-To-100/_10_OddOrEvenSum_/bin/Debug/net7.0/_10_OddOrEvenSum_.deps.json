@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "_10_OddOrEvenSum_/1.0.0": {
+        "runtime": {
+          "_10_OddOrEvenSum_.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_10_OddOrEvenSum_/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

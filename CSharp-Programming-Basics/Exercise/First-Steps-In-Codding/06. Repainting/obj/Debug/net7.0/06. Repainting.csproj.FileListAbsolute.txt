@@ -1,0 +1,15 @@
+/Users/stoykov/Projects/USD to BGN/06. Repainting/bin/Debug/net7.0/06. Repainting
+/Users/stoykov/Projects/USD to BGN/06. Repainting/bin/Debug/net7.0/06. Repainting.deps.json
+/Users/stoykov/Projects/USD to BGN/06. Repainting/bin/Debug/net7.0/06. Repainting.runtimeconfig.json
+/Users/stoykov/Projects/USD to BGN/06. Repainting/bin/Debug/net7.0/06. Repainting.dll
+/Users/stoykov/Projects/USD to BGN/06. Repainting/bin/Debug/net7.0/06. Repainting.pdb
+/Users/stoykov/Projects/USD to BGN/06. Repainting/obj/Debug/net7.0/06. Repainting.csproj.AssemblyReference.cache
+/Users/stoykov/Projects/USD to BGN/06. Repainting/obj/Debug/net7.0/06. Repainting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Projects/USD to BGN/06. Repainting/obj/Debug/net7.0/06. Repainting.AssemblyInfoInputs.cache
+/Users/stoykov/Projects/USD to BGN/06. Repainting/obj/Debug/net7.0/06. Repainting.AssemblyInfo.cs
+/Users/stoykov/Projects/USD to BGN/06. Repainting/obj/Debug/net7.0/06. Repainting.csproj.CoreCompileInputs.cache
+/Users/stoykov/Projects/USD to BGN/06. Repainting/obj/Debug/net7.0/06. Repainting.dll
+/Users/stoykov/Projects/USD to BGN/06. Repainting/obj/Debug/net7.0/refint/06. Repainting.dll
+/Users/stoykov/Projects/USD to BGN/06. Repainting/obj/Debug/net7.0/06. Repainting.pdb
+/Users/stoykov/Projects/USD to BGN/06. Repainting/obj/Debug/net7.0/06. Repainting.genruntimeconfig.cache
+/Users/stoykov/Projects/USD to BGN/06. Repainting/obj/Debug/net7.0/ref/06. Repainting.dll

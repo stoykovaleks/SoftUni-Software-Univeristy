@@ -1,0 +1,15 @@
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_For_Loops_Lab_/bin/Debug/net7.0/_For_Loops_Lab_
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_For_Loops_Lab_/bin/Debug/net7.0/_For_Loops_Lab_.deps.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_For_Loops_Lab_/bin/Debug/net7.0/_For_Loops_Lab_.runtimeconfig.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_For_Loops_Lab_/bin/Debug/net7.0/_For_Loops_Lab_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_For_Loops_Lab_/bin/Debug/net7.0/_For_Loops_Lab_.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_For_Loops_Lab_/obj/Debug/net7.0/_For_Loops_Lab_.csproj.AssemblyReference.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_For_Loops_Lab_/obj/Debug/net7.0/_For_Loops_Lab_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_For_Loops_Lab_/obj/Debug/net7.0/_For_Loops_Lab_.AssemblyInfoInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_For_Loops_Lab_/obj/Debug/net7.0/_For_Loops_Lab_.AssemblyInfo.cs
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_For_Loops_Lab_/obj/Debug/net7.0/_For_Loops_Lab_.csproj.CoreCompileInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_For_Loops_Lab_/obj/Debug/net7.0/_For_Loops_Lab_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_For_Loops_Lab_/obj/Debug/net7.0/refint/_For_Loops_Lab_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_For_Loops_Lab_/obj/Debug/net7.0/_For_Loops_Lab_.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_For_Loops_Lab_/obj/Debug/net7.0/_For_Loops_Lab_.genruntimeconfig.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_For_Loops_Lab_/obj/Debug/net7.0/ref/_For_Loops_Lab_.dll

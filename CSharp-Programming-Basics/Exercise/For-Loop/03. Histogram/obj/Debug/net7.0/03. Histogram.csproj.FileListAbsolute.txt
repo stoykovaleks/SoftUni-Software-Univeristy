@@ -1,0 +1,15 @@
+/Users/stoykov/Projects/For Loop - Exercise/03. Histogram/bin/Debug/net7.0/03. Histogram
+/Users/stoykov/Projects/For Loop - Exercise/03. Histogram/bin/Debug/net7.0/03. Histogram.deps.json
+/Users/stoykov/Projects/For Loop - Exercise/03. Histogram/bin/Debug/net7.0/03. Histogram.runtimeconfig.json
+/Users/stoykov/Projects/For Loop - Exercise/03. Histogram/bin/Debug/net7.0/03. Histogram.dll
+/Users/stoykov/Projects/For Loop - Exercise/03. Histogram/bin/Debug/net7.0/03. Histogram.pdb
+/Users/stoykov/Projects/For Loop - Exercise/03. Histogram/obj/Debug/net7.0/03. Histogram.csproj.AssemblyReference.cache
+/Users/stoykov/Projects/For Loop - Exercise/03. Histogram/obj/Debug/net7.0/03. Histogram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Projects/For Loop - Exercise/03. Histogram/obj/Debug/net7.0/03. Histogram.AssemblyInfoInputs.cache
+/Users/stoykov/Projects/For Loop - Exercise/03. Histogram/obj/Debug/net7.0/03. Histogram.AssemblyInfo.cs
+/Users/stoykov/Projects/For Loop - Exercise/03. Histogram/obj/Debug/net7.0/03. Histogram.csproj.CoreCompileInputs.cache
+/Users/stoykov/Projects/For Loop - Exercise/03. Histogram/obj/Debug/net7.0/03. Histogram.dll
+/Users/stoykov/Projects/For Loop - Exercise/03. Histogram/obj/Debug/net7.0/refint/03. Histogram.dll
+/Users/stoykov/Projects/For Loop - Exercise/03. Histogram/obj/Debug/net7.0/03. Histogram.pdb
+/Users/stoykov/Projects/For Loop - Exercise/03. Histogram/obj/Debug/net7.0/03. Histogram.genruntimeconfig.cache
+/Users/stoykov/Projects/For Loop - Exercise/03. Histogram/obj/Debug/net7.0/ref/03. Histogram.dll

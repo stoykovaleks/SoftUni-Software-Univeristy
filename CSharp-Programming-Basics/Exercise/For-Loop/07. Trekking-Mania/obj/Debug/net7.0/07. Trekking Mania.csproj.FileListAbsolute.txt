@@ -1,0 +1,15 @@
+/Users/stoykov/Projects/For Loop - Exercise/07. Trekking Mania/obj/Debug/net7.0/07. Trekking Mania.csproj.AssemblyReference.cache
+/Users/stoykov/Projects/For Loop - Exercise/07. Trekking Mania/obj/Debug/net7.0/07. Trekking Mania.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Projects/For Loop - Exercise/07. Trekking Mania/obj/Debug/net7.0/07. Trekking Mania.AssemblyInfoInputs.cache
+/Users/stoykov/Projects/For Loop - Exercise/07. Trekking Mania/obj/Debug/net7.0/07. Trekking Mania.AssemblyInfo.cs
+/Users/stoykov/Projects/For Loop - Exercise/07. Trekking Mania/obj/Debug/net7.0/07. Trekking Mania.csproj.CoreCompileInputs.cache
+/Users/stoykov/Projects/For Loop - Exercise/07. Trekking Mania/bin/Debug/net7.0/07. Trekking Mania
+/Users/stoykov/Projects/For Loop - Exercise/07. Trekking Mania/bin/Debug/net7.0/07. Trekking Mania.deps.json
+/Users/stoykov/Projects/For Loop - Exercise/07. Trekking Mania/bin/Debug/net7.0/07. Trekking Mania.runtimeconfig.json
+/Users/stoykov/Projects/For Loop - Exercise/07. Trekking Mania/bin/Debug/net7.0/07. Trekking Mania.dll
+/Users/stoykov/Projects/For Loop - Exercise/07. Trekking Mania/bin/Debug/net7.0/07. Trekking Mania.pdb
+/Users/stoykov/Projects/For Loop - Exercise/07. Trekking Mania/obj/Debug/net7.0/07. Trekking Mania.dll
+/Users/stoykov/Projects/For Loop - Exercise/07. Trekking Mania/obj/Debug/net7.0/refint/07. Trekking Mania.dll
+/Users/stoykov/Projects/For Loop - Exercise/07. Trekking Mania/obj/Debug/net7.0/07. Trekking Mania.pdb
+/Users/stoykov/Projects/For Loop - Exercise/07. Trekking Mania/obj/Debug/net7.0/07. Trekking Mania.genruntimeconfig.cache
+/Users/stoykov/Projects/For Loop - Exercise/07. Trekking Mania/obj/Debug/net7.0/ref/07. Trekking Mania.dll

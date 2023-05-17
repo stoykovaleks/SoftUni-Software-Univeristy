@@ -1,0 +1,15 @@
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/_02_02. Exam Preparation/bin/Debug/net7.0/_02_02. Exam Preparation
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/_02_02. Exam Preparation/bin/Debug/net7.0/_02_02. Exam Preparation.deps.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/_02_02. Exam Preparation/bin/Debug/net7.0/_02_02. Exam Preparation.runtimeconfig.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/_02_02. Exam Preparation/bin/Debug/net7.0/_02_02. Exam Preparation.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/_02_02. Exam Preparation/bin/Debug/net7.0/_02_02. Exam Preparation.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/_02_02. Exam Preparation/obj/Debug/net7.0/_02_02. Exam Preparation.csproj.AssemblyReference.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/_02_02. Exam Preparation/obj/Debug/net7.0/_02_02. Exam Preparation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/_02_02. Exam Preparation/obj/Debug/net7.0/_02_02. Exam Preparation.AssemblyInfoInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/_02_02. Exam Preparation/obj/Debug/net7.0/_02_02. Exam Preparation.AssemblyInfo.cs
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/_02_02. Exam Preparation/obj/Debug/net7.0/_02_02. Exam Preparation.csproj.CoreCompileInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/_02_02. Exam Preparation/obj/Debug/net7.0/_02_02. Exam Preparation.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/_02_02. Exam Preparation/obj/Debug/net7.0/refint/_02_02. Exam Preparation.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/_02_02. Exam Preparation/obj/Debug/net7.0/_02_02. Exam Preparation.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/_02_02. Exam Preparation/obj/Debug/net7.0/_02_02. Exam Preparation.genruntimeconfig.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/_02_02. Exam Preparation/obj/Debug/net7.0/ref/_02_02. Exam Preparation.dll

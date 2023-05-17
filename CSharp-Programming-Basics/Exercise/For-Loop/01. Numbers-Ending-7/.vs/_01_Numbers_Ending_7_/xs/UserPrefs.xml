@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{B46EC3A7-3F4C-4067-B1FC-A3A7B200719B}|Default">
+  <MonoDevelop.Ide.ItemProperties.__01__Numbers__Ending__7__ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__04__Clever__Lily__ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="_08_Tennis_Ranklist_/Program.cs">
+    <Files>
+      <File FileName="_01_Numbers_Ending_7_/Program.cs" />
+      <File FileName="_02_Half_Sum_Element_/Program.cs" />
+      <File FileName="_03_Hristogram_/Program.cs" Line="37" Column="13" />
+      <File FileName="_04_Clever_Lily_/Program.cs" />
+      <File FileName="_05_Salary_/Program.cs" />
+      <File FileName="_06_ Oscars_/Program.cs" />
+      <File FileName="07. Trekking Mania/Program.cs" Line="19" Column="1" />
+      <File FileName="_08_Tennis_Ranklist_/Program.cs" Line="47" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="_01_Numbers_Ending_7_" expanded="True">
+            <Node name="_01_Numbers_Ending_7_" expanded="True" />
+            <Node name="_02_Half_Sum_Element_" expanded="True" />
+            <Node name="_03_Hristogram_" expanded="True" />
+            <Node name="_04_Clever_Lily_" expanded="True" />
+            <Node name="_05_Salary_" expanded="True" />
+            <Node name="_06_ Oscars_" expanded="True" />
+            <Node name="_08_Tennis_Ranklist_" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="07. Trekking Mania" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.__03__Hristogram__ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.07._220Trekking_220Mania PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__06___220Oscars__ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__02__Half__Sum__Element__ FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_03_Hristogram_/Program.cs" relfile="_03_Hristogram_/Program.cs" line="12" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.__05__Salary__ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__08__Tennis__Ranklist__ PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

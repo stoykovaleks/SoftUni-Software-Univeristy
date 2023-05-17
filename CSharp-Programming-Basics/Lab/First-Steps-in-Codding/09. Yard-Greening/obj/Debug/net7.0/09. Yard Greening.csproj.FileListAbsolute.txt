@@ -1,0 +1,15 @@
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/09. Yard Greening/bin/Debug/net7.0/09. Yard Greening
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/09. Yard Greening/bin/Debug/net7.0/09. Yard Greening.deps.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/09. Yard Greening/bin/Debug/net7.0/09. Yard Greening.runtimeconfig.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/09. Yard Greening/bin/Debug/net7.0/09. Yard Greening.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/09. Yard Greening/bin/Debug/net7.0/09. Yard Greening.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/09. Yard Greening/obj/Debug/net7.0/09. Yard Greening.csproj.AssemblyReference.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/09. Yard Greening/obj/Debug/net7.0/09. Yard Greening.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/09. Yard Greening/obj/Debug/net7.0/09. Yard Greening.AssemblyInfoInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/09. Yard Greening/obj/Debug/net7.0/09. Yard Greening.AssemblyInfo.cs
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/09. Yard Greening/obj/Debug/net7.0/09. Yard Greening.csproj.CoreCompileInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/09. Yard Greening/obj/Debug/net7.0/09. Yard Greening.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/09. Yard Greening/obj/Debug/net7.0/refint/09. Yard Greening.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/09. Yard Greening/obj/Debug/net7.0/09. Yard Greening.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/09. Yard Greening/obj/Debug/net7.0/09. Yard Greening.genruntimeconfig.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/FirstStepsInCoding/09. Yard Greening/obj/Debug/net7.0/ref/09. Yard Greening.dll

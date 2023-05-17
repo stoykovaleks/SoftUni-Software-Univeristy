@@ -1,0 +1,15 @@
+/Users/stoykov/Projects/_01_ReadText_/_03_Sum_Numbers_/bin/Debug/net7.0/_03_Sum_Numbers_
+/Users/stoykov/Projects/_01_ReadText_/_03_Sum_Numbers_/bin/Debug/net7.0/_03_Sum_Numbers_.deps.json
+/Users/stoykov/Projects/_01_ReadText_/_03_Sum_Numbers_/bin/Debug/net7.0/_03_Sum_Numbers_.runtimeconfig.json
+/Users/stoykov/Projects/_01_ReadText_/_03_Sum_Numbers_/bin/Debug/net7.0/_03_Sum_Numbers_.dll
+/Users/stoykov/Projects/_01_ReadText_/_03_Sum_Numbers_/bin/Debug/net7.0/_03_Sum_Numbers_.pdb
+/Users/stoykov/Projects/_01_ReadText_/_03_Sum_Numbers_/obj/Debug/net7.0/_03_Sum_Numbers_.csproj.AssemblyReference.cache
+/Users/stoykov/Projects/_01_ReadText_/_03_Sum_Numbers_/obj/Debug/net7.0/_03_Sum_Numbers_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Projects/_01_ReadText_/_03_Sum_Numbers_/obj/Debug/net7.0/_03_Sum_Numbers_.AssemblyInfoInputs.cache
+/Users/stoykov/Projects/_01_ReadText_/_03_Sum_Numbers_/obj/Debug/net7.0/_03_Sum_Numbers_.AssemblyInfo.cs
+/Users/stoykov/Projects/_01_ReadText_/_03_Sum_Numbers_/obj/Debug/net7.0/_03_Sum_Numbers_.csproj.CoreCompileInputs.cache
+/Users/stoykov/Projects/_01_ReadText_/_03_Sum_Numbers_/obj/Debug/net7.0/_03_Sum_Numbers_.dll
+/Users/stoykov/Projects/_01_ReadText_/_03_Sum_Numbers_/obj/Debug/net7.0/refint/_03_Sum_Numbers_.dll
+/Users/stoykov/Projects/_01_ReadText_/_03_Sum_Numbers_/obj/Debug/net7.0/_03_Sum_Numbers_.pdb
+/Users/stoykov/Projects/_01_ReadText_/_03_Sum_Numbers_/obj/Debug/net7.0/_03_Sum_Numbers_.genruntimeconfig.cache
+/Users/stoykov/Projects/_01_ReadText_/_03_Sum_Numbers_/obj/Debug/net7.0/ref/_03_Sum_Numbers_.dll

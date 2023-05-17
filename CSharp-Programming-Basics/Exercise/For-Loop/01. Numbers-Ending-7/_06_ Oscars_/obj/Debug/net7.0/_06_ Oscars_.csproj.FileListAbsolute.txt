@@ -1,0 +1,15 @@
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_06_ Oscars_/bin/Debug/net7.0/_06_ Oscars_
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_06_ Oscars_/bin/Debug/net7.0/_06_ Oscars_.deps.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_06_ Oscars_/bin/Debug/net7.0/_06_ Oscars_.runtimeconfig.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_06_ Oscars_/bin/Debug/net7.0/_06_ Oscars_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_06_ Oscars_/bin/Debug/net7.0/_06_ Oscars_.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_06_ Oscars_/obj/Debug/net7.0/_06_ Oscars_.csproj.AssemblyReference.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_06_ Oscars_/obj/Debug/net7.0/_06_ Oscars_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_06_ Oscars_/obj/Debug/net7.0/_06_ Oscars_.AssemblyInfoInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_06_ Oscars_/obj/Debug/net7.0/_06_ Oscars_.AssemblyInfo.cs
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_06_ Oscars_/obj/Debug/net7.0/_06_ Oscars_.csproj.CoreCompileInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_06_ Oscars_/obj/Debug/net7.0/_06_ Oscars_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_06_ Oscars_/obj/Debug/net7.0/refint/_06_ Oscars_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_06_ Oscars_/obj/Debug/net7.0/_06_ Oscars_.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_06_ Oscars_/obj/Debug/net7.0/_06_ Oscars_.genruntimeconfig.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_06_ Oscars_/obj/Debug/net7.0/ref/_06_ Oscars_.dll

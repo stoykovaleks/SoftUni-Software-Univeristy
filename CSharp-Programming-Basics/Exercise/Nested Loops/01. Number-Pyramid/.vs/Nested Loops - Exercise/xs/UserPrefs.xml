@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{E30D42D3-BF4A-4381-B083-25C440B229BE}|Default">
+  <MonoDevelop.Ide.ItemProperties.02._220Equal_220Sums_220Even_220Odd_220Position PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.05._220Special_220Numbers FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.03._220Sum_220Prime_220Non_220Prime FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/01. Number Pyramid/Nested Loops - Exercise/Program.cs" relfile="Nested Loops - Exercise/Program.cs" line="13" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="05. Special Numbers/Program.cs">
+    <Files>
+      <File FileName="Nested Loops - Exercise/Program.cs" Line="13" Column="28" />
+      <File FileName="02. Equal Sums Even Odd Position/Program.cs" Line="25" Column="22" />
+      <File FileName="03. Sum Prime Non Prime/Program.cs" Line="30" Column="41" />
+      <File FileName="04. Train The Trainers/Program.cs" Line="27" Column="73" />
+      <File FileName="05. Special Numbers/Program.cs" Line="24" Column="31" />
+      <File FileName="06. Cinema Tickets/Program.cs" Line="9" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Nested Loops - Exercise" expanded="True">
+            <Node name="01. Number Pyramid" expanded="True" />
+            <Node name="02. Equal Sums Even Odd Position" expanded="True" />
+            <Node name="03. Sum Prime Non Prime" expanded="True" />
+            <Node name="04. Train The Trainers" expanded="True" />
+            <Node name="05. Special Numbers" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="06. Cinema Tickets" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.ItemProperties.04._220Train_220The_220Trainers FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.01._220Number_220Pyramid PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.06._220Cinema_220Tickets FirstBuild="True" />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/stoykov/Projects/USD to BGN/03. Deposit Calculator/obj/Debug/net7.0/03. Deposit Calculator.csproj.AssemblyReference.cache
+/Users/stoykov/Projects/USD to BGN/03. Deposit Calculator/obj/Debug/net7.0/03. Deposit Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Projects/USD to BGN/03. Deposit Calculator/obj/Debug/net7.0/03. Deposit Calculator.AssemblyInfoInputs.cache
+/Users/stoykov/Projects/USD to BGN/03. Deposit Calculator/obj/Debug/net7.0/03. Deposit Calculator.AssemblyInfo.cs
+/Users/stoykov/Projects/USD to BGN/03. Deposit Calculator/obj/Debug/net7.0/03. Deposit Calculator.csproj.CoreCompileInputs.cache
+/Users/stoykov/Projects/USD to BGN/03. Deposit Calculator/bin/Debug/net7.0/03. Deposit Calculator
+/Users/stoykov/Projects/USD to BGN/03. Deposit Calculator/bin/Debug/net7.0/03. Deposit Calculator.deps.json
+/Users/stoykov/Projects/USD to BGN/03. Deposit Calculator/bin/Debug/net7.0/03. Deposit Calculator.runtimeconfig.json
+/Users/stoykov/Projects/USD to BGN/03. Deposit Calculator/bin/Debug/net7.0/03. Deposit Calculator.dll
+/Users/stoykov/Projects/USD to BGN/03. Deposit Calculator/bin/Debug/net7.0/03. Deposit Calculator.pdb
+/Users/stoykov/Projects/USD to BGN/03. Deposit Calculator/obj/Debug/net7.0/03. Deposit Calculator.dll
+/Users/stoykov/Projects/USD to BGN/03. Deposit Calculator/obj/Debug/net7.0/refint/03. Deposit Calculator.dll
+/Users/stoykov/Projects/USD to BGN/03. Deposit Calculator/obj/Debug/net7.0/03. Deposit Calculator.pdb
+/Users/stoykov/Projects/USD to BGN/03. Deposit Calculator/obj/Debug/net7.0/03. Deposit Calculator.genruntimeconfig.cache
+/Users/stoykov/Projects/USD to BGN/03. Deposit Calculator/obj/Debug/net7.0/ref/03. Deposit Calculator.dll

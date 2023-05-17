@@ -1,0 +1,15 @@
+/Users/stoykov/Projects/For Loop - Exercise/05. Salary/bin/Debug/net7.0/05. Salary
+/Users/stoykov/Projects/For Loop - Exercise/05. Salary/bin/Debug/net7.0/05. Salary.deps.json
+/Users/stoykov/Projects/For Loop - Exercise/05. Salary/bin/Debug/net7.0/05. Salary.runtimeconfig.json
+/Users/stoykov/Projects/For Loop - Exercise/05. Salary/bin/Debug/net7.0/05. Salary.dll
+/Users/stoykov/Projects/For Loop - Exercise/05. Salary/bin/Debug/net7.0/05. Salary.pdb
+/Users/stoykov/Projects/For Loop - Exercise/05. Salary/obj/Debug/net7.0/05. Salary.csproj.AssemblyReference.cache
+/Users/stoykov/Projects/For Loop - Exercise/05. Salary/obj/Debug/net7.0/05. Salary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Projects/For Loop - Exercise/05. Salary/obj/Debug/net7.0/05. Salary.AssemblyInfoInputs.cache
+/Users/stoykov/Projects/For Loop - Exercise/05. Salary/obj/Debug/net7.0/05. Salary.AssemblyInfo.cs
+/Users/stoykov/Projects/For Loop - Exercise/05. Salary/obj/Debug/net7.0/05. Salary.csproj.CoreCompileInputs.cache
+/Users/stoykov/Projects/For Loop - Exercise/05. Salary/obj/Debug/net7.0/05. Salary.dll
+/Users/stoykov/Projects/For Loop - Exercise/05. Salary/obj/Debug/net7.0/refint/05. Salary.dll
+/Users/stoykov/Projects/For Loop - Exercise/05. Salary/obj/Debug/net7.0/05. Salary.pdb
+/Users/stoykov/Projects/For Loop - Exercise/05. Salary/obj/Debug/net7.0/05. Salary.genruntimeconfig.cache
+/Users/stoykov/Projects/For Loop - Exercise/05. Salary/obj/Debug/net7.0/ref/05. Salary.dll

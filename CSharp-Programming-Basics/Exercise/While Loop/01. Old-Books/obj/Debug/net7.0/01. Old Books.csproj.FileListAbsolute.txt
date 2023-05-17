@@ -1,0 +1,15 @@
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/01. Old Books/bin/Debug/net7.0/01. Old Books
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/01. Old Books/bin/Debug/net7.0/01. Old Books.deps.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/01. Old Books/bin/Debug/net7.0/01. Old Books.runtimeconfig.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/01. Old Books/bin/Debug/net7.0/01. Old Books.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/01. Old Books/bin/Debug/net7.0/01. Old Books.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/01. Old Books/obj/Debug/net7.0/01. Old Books.csproj.AssemblyReference.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/01. Old Books/obj/Debug/net7.0/01. Old Books.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/01. Old Books/obj/Debug/net7.0/01. Old Books.AssemblyInfoInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/01. Old Books/obj/Debug/net7.0/01. Old Books.AssemblyInfo.cs
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/01. Old Books/obj/Debug/net7.0/01. Old Books.csproj.CoreCompileInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/01. Old Books/obj/Debug/net7.0/01. Old Books.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/01. Old Books/obj/Debug/net7.0/refint/01. Old Books.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/01. Old Books/obj/Debug/net7.0/01. Old Books.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/01. Old Books/obj/Debug/net7.0/01. Old Books.genruntimeconfig.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/01. Old Books/obj/Debug/net7.0/ref/01. Old Books.dll

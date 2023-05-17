@@ -1,0 +1,15 @@
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/03. Vacation/bin/Debug/net7.0/03. Vacation
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/03. Vacation/bin/Debug/net7.0/03. Vacation.deps.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/03. Vacation/bin/Debug/net7.0/03. Vacation.runtimeconfig.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/03. Vacation/bin/Debug/net7.0/03. Vacation.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/03. Vacation/bin/Debug/net7.0/03. Vacation.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/03. Vacation/obj/Debug/net7.0/03. Vacation.csproj.AssemblyReference.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/03. Vacation/obj/Debug/net7.0/03. Vacation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/03. Vacation/obj/Debug/net7.0/03. Vacation.AssemblyInfoInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/03. Vacation/obj/Debug/net7.0/03. Vacation.AssemblyInfo.cs
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/03. Vacation/obj/Debug/net7.0/03. Vacation.csproj.CoreCompileInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/03. Vacation/obj/Debug/net7.0/03. Vacation.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/03. Vacation/obj/Debug/net7.0/refint/03. Vacation.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/03. Vacation/obj/Debug/net7.0/03. Vacation.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/03. Vacation/obj/Debug/net7.0/03. Vacation.genruntimeconfig.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/While Loop - Exercise/03. Vacation/obj/Debug/net7.0/ref/03. Vacation.dll

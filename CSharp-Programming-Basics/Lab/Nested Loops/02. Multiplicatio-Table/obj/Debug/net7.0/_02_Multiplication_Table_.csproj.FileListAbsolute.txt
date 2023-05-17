@@ -1,0 +1,15 @@
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/_02_Multiplication_Table_/bin/Debug/net7.0/_02_Multiplication_Table_
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/_02_Multiplication_Table_/bin/Debug/net7.0/_02_Multiplication_Table_.deps.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/_02_Multiplication_Table_/bin/Debug/net7.0/_02_Multiplication_Table_.runtimeconfig.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/_02_Multiplication_Table_/bin/Debug/net7.0/_02_Multiplication_Table_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/_02_Multiplication_Table_/bin/Debug/net7.0/_02_Multiplication_Table_.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/_02_Multiplication_Table_/obj/Debug/net7.0/_02_Multiplication_Table_.csproj.AssemblyReference.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/_02_Multiplication_Table_/obj/Debug/net7.0/_02_Multiplication_Table_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/_02_Multiplication_Table_/obj/Debug/net7.0/_02_Multiplication_Table_.AssemblyInfoInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/_02_Multiplication_Table_/obj/Debug/net7.0/_02_Multiplication_Table_.AssemblyInfo.cs
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/_02_Multiplication_Table_/obj/Debug/net7.0/_02_Multiplication_Table_.csproj.CoreCompileInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/_02_Multiplication_Table_/obj/Debug/net7.0/_02_Multiplication_Table_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/_02_Multiplication_Table_/obj/Debug/net7.0/refint/_02_Multiplication_Table_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/_02_Multiplication_Table_/obj/Debug/net7.0/_02_Multiplication_Table_.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/_02_Multiplication_Table_/obj/Debug/net7.0/_02_Multiplication_Table_.genruntimeconfig.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/_02_Multiplication_Table_/obj/Debug/net7.0/ref/_02_Multiplication_Table_.dll

@@ -1,0 +1,15 @@
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/01. Clock/bin/Debug/net7.0/01. Clock
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/01. Clock/bin/Debug/net7.0/01. Clock.deps.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/01. Clock/bin/Debug/net7.0/01. Clock.runtimeconfig.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/01. Clock/bin/Debug/net7.0/01. Clock.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/01. Clock/bin/Debug/net7.0/01. Clock.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/01. Clock/obj/Debug/net7.0/01. Clock.csproj.AssemblyReference.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/01. Clock/obj/Debug/net7.0/01. Clock.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/01. Clock/obj/Debug/net7.0/01. Clock.AssemblyInfoInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/01. Clock/obj/Debug/net7.0/01. Clock.AssemblyInfo.cs
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/01. Clock/obj/Debug/net7.0/01. Clock.csproj.CoreCompileInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/01. Clock/obj/Debug/net7.0/01. Clock.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/01. Clock/obj/Debug/net7.0/refint/01. Clock.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/01. Clock/obj/Debug/net7.0/01. Clock.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/01. Clock/obj/Debug/net7.0/01. Clock.genruntimeconfig.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/01. Clock/obj/Debug/net7.0/ref/01. Clock.dll

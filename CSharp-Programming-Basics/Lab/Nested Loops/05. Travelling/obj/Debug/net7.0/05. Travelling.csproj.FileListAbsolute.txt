@@ -1,0 +1,15 @@
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/05. Travelling/bin/Debug/net7.0/05. Travelling
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/05. Travelling/bin/Debug/net7.0/05. Travelling.deps.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/05. Travelling/bin/Debug/net7.0/05. Travelling.runtimeconfig.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/05. Travelling/bin/Debug/net7.0/05. Travelling.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/05. Travelling/bin/Debug/net7.0/05. Travelling.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/05. Travelling/obj/Debug/net7.0/05. Travelling.csproj.AssemblyReference.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/05. Travelling/obj/Debug/net7.0/05. Travelling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/05. Travelling/obj/Debug/net7.0/05. Travelling.AssemblyInfoInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/05. Travelling/obj/Debug/net7.0/05. Travelling.AssemblyInfo.cs
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/05. Travelling/obj/Debug/net7.0/05. Travelling.csproj.CoreCompileInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/05. Travelling/obj/Debug/net7.0/05. Travelling.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/05. Travelling/obj/Debug/net7.0/refint/05. Travelling.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/05. Travelling/obj/Debug/net7.0/05. Travelling.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/05. Travelling/obj/Debug/net7.0/05. Travelling.genruntimeconfig.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/Nested Loops - Lab/05. Travelling/obj/Debug/net7.0/ref/05. Travelling.dll

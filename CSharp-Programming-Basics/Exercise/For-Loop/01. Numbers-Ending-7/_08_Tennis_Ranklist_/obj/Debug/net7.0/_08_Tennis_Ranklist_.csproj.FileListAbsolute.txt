@@ -1,0 +1,15 @@
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_08_Tennis_Ranklist_/bin/Debug/net7.0/_08_Tennis_Ranklist_
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_08_Tennis_Ranklist_/bin/Debug/net7.0/_08_Tennis_Ranklist_.deps.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_08_Tennis_Ranklist_/bin/Debug/net7.0/_08_Tennis_Ranklist_.runtimeconfig.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_08_Tennis_Ranklist_/bin/Debug/net7.0/_08_Tennis_Ranklist_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_08_Tennis_Ranklist_/bin/Debug/net7.0/_08_Tennis_Ranklist_.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_08_Tennis_Ranklist_/obj/Debug/net7.0/_08_Tennis_Ranklist_.csproj.AssemblyReference.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_08_Tennis_Ranklist_/obj/Debug/net7.0/_08_Tennis_Ranklist_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_08_Tennis_Ranklist_/obj/Debug/net7.0/_08_Tennis_Ranklist_.AssemblyInfoInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_08_Tennis_Ranklist_/obj/Debug/net7.0/_08_Tennis_Ranklist_.AssemblyInfo.cs
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_08_Tennis_Ranklist_/obj/Debug/net7.0/_08_Tennis_Ranklist_.csproj.CoreCompileInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_08_Tennis_Ranklist_/obj/Debug/net7.0/_08_Tennis_Ranklist_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_08_Tennis_Ranklist_/obj/Debug/net7.0/refint/_08_Tennis_Ranklist_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_08_Tennis_Ranklist_/obj/Debug/net7.0/_08_Tennis_Ranklist_.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_08_Tennis_Ranklist_/obj/Debug/net7.0/_08_Tennis_Ranklist_.genruntimeconfig.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_01_Numbers_Ending_7_/_08_Tennis_Ranklist_/obj/Debug/net7.0/ref/_08_Tennis_Ranklist_.dll

@@ -1,0 +1,72 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Number Pyramid", "Nested Loops - Exercise\01. Number Pyramid.csproj", "{345D4259-7534-4CC5-940D-4F7261512E70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Equal Sums Even Odd Position", "02. Equal Sums Even Odd Position\02. Equal Sums Even Odd Position.csproj", "{E30D42D3-BF4A-4381-B083-25C440B229BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Sum Prime Non Prime", "03. Sum Prime Non Prime\03. Sum Prime Non Prime.csproj", "{21F21823-239E-43C3-8172-4148A4CBAAFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Train The Trainers", "04. Train The Trainers\04. Train The Trainers.csproj", "{C2E052B5-C9AB-413E-8E6F-0C6EDC2EEAD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Special Numbers", "05. Special Numbers\05. Special Numbers.csproj", "{C37A31E5-748E-4315-9F8D-1627F0D611A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Cinema Tickets", "06. Cinema Tickets\06. Cinema Tickets.csproj", "{B91AF059-0066-4B20-B66D-EBFC5FD2DB54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{345D4259-7534-4CC5-940D-4F7261512E70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{345D4259-7534-4CC5-940D-4F7261512E70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{345D4259-7534-4CC5-940D-4F7261512E70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{345D4259-7534-4CC5-940D-4F7261512E70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E30D42D3-BF4A-4381-B083-25C440B229BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E30D42D3-BF4A-4381-B083-25C440B229BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E30D42D3-BF4A-4381-B083-25C440B229BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E30D42D3-BF4A-4381-B083-25C440B229BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21F21823-239E-43C3-8172-4148A4CBAAFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21F21823-239E-43C3-8172-4148A4CBAAFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21F21823-239E-43C3-8172-4148A4CBAAFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21F21823-239E-43C3-8172-4148A4CBAAFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2E052B5-C9AB-413E-8E6F-0C6EDC2EEAD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2E052B5-C9AB-413E-8E6F-0C6EDC2EEAD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2E052B5-C9AB-413E-8E6F-0C6EDC2EEAD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2E052B5-C9AB-413E-8E6F-0C6EDC2EEAD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C37A31E5-748E-4315-9F8D-1627F0D611A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C37A31E5-748E-4315-9F8D-1627F0D611A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C37A31E5-748E-4315-9F8D-1627F0D611A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C37A31E5-748E-4315-9F8D-1627F0D611A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B91AF059-0066-4B20-B66D-EBFC5FD2DB54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B91AF059-0066-4B20-B66D-EBFC5FD2DB54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B91AF059-0066-4B20-B66D-EBFC5FD2DB54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B91AF059-0066-4B20-B66D-EBFC5FD2DB54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6185B13E-65CF-477F-AF7F-57B81542BECA}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.TextStylePolicy = $2
+		$2.FileWidth = 80
+		$2.TabsToSpaces = True
+		$2.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $3
+		$3.scope = text/x-csharp
+		$0.TextStylePolicy = $4
+		$4.FileWidth = 80
+		$4.TabsToSpaces = True
+		$4.EolMarker = Windows
+		$4.scope = text/plain
+		$0.StandardHeader = $5
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_06_Vowels_Sum_/bin/Debug/net7.0/_06_Vowels_Sum_
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_06_Vowels_Sum_/bin/Debug/net7.0/_06_Vowels_Sum_.deps.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_06_Vowels_Sum_/bin/Debug/net7.0/_06_Vowels_Sum_.runtimeconfig.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_06_Vowels_Sum_/bin/Debug/net7.0/_06_Vowels_Sum_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_06_Vowels_Sum_/bin/Debug/net7.0/_06_Vowels_Sum_.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_06_Vowels_Sum_/obj/Debug/net7.0/_06_Vowels_Sum_.csproj.AssemblyReference.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_06_Vowels_Sum_/obj/Debug/net7.0/_06_Vowels_Sum_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_06_Vowels_Sum_/obj/Debug/net7.0/_06_Vowels_Sum_.AssemblyInfoInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_06_Vowels_Sum_/obj/Debug/net7.0/_06_Vowels_Sum_.AssemblyInfo.cs
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_06_Vowels_Sum_/obj/Debug/net7.0/_06_Vowels_Sum_.csproj.CoreCompileInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_06_Vowels_Sum_/obj/Debug/net7.0/_06_Vowels_Sum_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_06_Vowels_Sum_/obj/Debug/net7.0/refint/_06_Vowels_Sum_.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_06_Vowels_Sum_/obj/Debug/net7.0/_06_Vowels_Sum_.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_06_Vowels_Sum_/obj/Debug/net7.0/_06_Vowels_Sum_.genruntimeconfig.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Lekcii  LAB/_Numbers_From_1_To_100_/_06_Vowels_Sum_/obj/Debug/net7.0/ref/_06_Vowels_Sum_.dll

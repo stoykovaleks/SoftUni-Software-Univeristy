@@ -1,0 +1,15 @@
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_08_LunchBreak/_08_LunchBreak/bin/Debug/net6.0/_08_LunchBreak
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_08_LunchBreak/_08_LunchBreak/bin/Debug/net6.0/_08_LunchBreak.deps.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_08_LunchBreak/_08_LunchBreak/bin/Debug/net6.0/_08_LunchBreak.runtimeconfig.json
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_08_LunchBreak/_08_LunchBreak/bin/Debug/net6.0/_08_LunchBreak.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_08_LunchBreak/_08_LunchBreak/bin/Debug/net6.0/_08_LunchBreak.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_08_LunchBreak/_08_LunchBreak/obj/Debug/net6.0/_08_LunchBreak.csproj.AssemblyReference.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_08_LunchBreak/_08_LunchBreak/obj/Debug/net6.0/_08_LunchBreak.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_08_LunchBreak/_08_LunchBreak/obj/Debug/net6.0/_08_LunchBreak.AssemblyInfoInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_08_LunchBreak/_08_LunchBreak/obj/Debug/net6.0/_08_LunchBreak.AssemblyInfo.cs
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_08_LunchBreak/_08_LunchBreak/obj/Debug/net6.0/_08_LunchBreak.csproj.CoreCompileInputs.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_08_LunchBreak/_08_LunchBreak/obj/Debug/net6.0/_08_LunchBreak.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_08_LunchBreak/_08_LunchBreak/obj/Debug/net6.0/refint/_08_LunchBreak.dll
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_08_LunchBreak/_08_LunchBreak/obj/Debug/net6.0/_08_LunchBreak.pdb
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_08_LunchBreak/_08_LunchBreak/obj/Debug/net6.0/_08_LunchBreak.genruntimeconfig.cache
+/Users/stoykov/Visual Studio MyProjects/SoftUni projects/Judje Uprajneniq LAB/_08_LunchBreak/_08_LunchBreak/obj/Debug/net6.0/ref/_08_LunchBreak.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "_06_World_Swim_Record_/1.0.0": {
+        "runtime": {
+          "_06_World_Swim_Record_.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_06_World_Swim_Record_/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
