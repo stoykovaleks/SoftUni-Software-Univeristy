@@ -1,5 +1,3 @@
   <a href="https://softuni.bg"><img src="Software-University-Logo-blue-horizontal.png"></a>
 
-The **"Programming Basics"** course provides the initial programming skills required for all technological majors at the Software University. This includes writing **basic code skills**, working with development environment (IDE), using **variables and data**, **operators** and **expressions**, working with **the console** (reading input data and printing results), using conditional constructions **(if, if-else)** and cycles **(for, while, do-while)**.
-
-The course **"Programming Basics"** ends with a practical programming exam. Details can be found <a href="https://softuni.bg/trainings/courses"> here <a/>.
+Software University (SoftUni) is as an education initiative for high quality software education, the biggest and most well-respected educational institution in Bulgaria and the region. SoftUni is the organizer of a number of practical training programs, free courses and seminars, events and other educational initiatives that provide thousands of young people in Bulgaria with quality education in the fields of software engineering, IT and digital skills. 
