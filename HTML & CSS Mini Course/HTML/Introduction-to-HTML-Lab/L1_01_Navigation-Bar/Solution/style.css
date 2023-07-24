@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    font-family: Helvetica, sans-serif;
+}
+
+nav {
+    background: #234465;
+}
+
+nav li {
+    text-align: center;
+    padding: 10px;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline block;
+}
+
+nav ul li a {
+    display: block;
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}

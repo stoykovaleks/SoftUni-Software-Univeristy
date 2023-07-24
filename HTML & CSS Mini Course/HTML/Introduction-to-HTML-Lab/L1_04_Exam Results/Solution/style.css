@@ -1,0 +1,8 @@
+table {
+    align-items: center;
+    border: 1px solid;
+}
+
+table thead tr {
+    border: 1px solid;
+}
