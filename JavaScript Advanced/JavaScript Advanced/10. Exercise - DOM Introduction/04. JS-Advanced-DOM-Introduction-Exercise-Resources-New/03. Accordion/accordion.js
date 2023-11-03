@@ -1,19 +1,18 @@
 function toggle() {
-    let buton = document.getElementsByClassName('button')[0];
-    let text = document.getElementById('extra');3
+    const btnEl = document.getElementsByClassName("button")[0];
+    const text = document.getElementById("extra");
     
-    buton.textContent = buton.textContent === 'More' ? 'Less' : 'More';
+    if(btnEl.textContent === "More"){
+        btnEl.textContent = "Less";
+    }
+    else{
+        btnEl.textContent = "More";
+    }
 
-    // if(text.style.display === "");{
-    //     text.style.display = 'none';
-    // }
-
-    // if(text.style.display === 'none'){
-    //     text.style.display === 'none';
-    // }
-    // else{
-    //     text.style.display === 'block';
-    // }
-    text.style.display = text.style.display === 'none' ? 'block' : 'none';
-
+    if(text.style.display === "block"){
+        text.style.display = "none";
+    }
+    else{
+        text.style.display = "block";
+    }
 }

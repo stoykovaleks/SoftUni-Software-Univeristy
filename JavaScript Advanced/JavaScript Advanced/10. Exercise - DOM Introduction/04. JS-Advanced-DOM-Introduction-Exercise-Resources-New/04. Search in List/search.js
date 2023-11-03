@@ -1,20 +1,20 @@
 function search() {
-   let searchedField = document.getElementById('searchText').value;
-   let target = document.querySelectorAll('towns, li');
+   const listItems = Array.from(document.querySelectorAll("#towns li"));
+   const inputFieldEl = document.querySelector("#searchText")
+   const resultEl = document.querySelector("#result");
+
    let counter = 0;
 
-   target.forEach(target => {
-      if (target.textContent.includes(searchedField)) {
-         target.style.fontWeight = 'bold';
-         target.style.textDecoration = 'underline';
+   listItems.forEach((el) => {
+      if (el.textContent.includes(inputFieldEl.value)) {
+         el.style.fontWeight = "bold";
+         el.style.textDecoration = "underline";
          counter++;
-
-         return;
       }
       else {
-         target.style.fontWeight = '';
-         target.style.textDecoration = 'none';
+         el.style.fontWeight = "normal";
+         el.style.textDecoration = "none";
       }
    });
-   document.getElementById('result').textContent = `${counter} matches found.`;
-}  
+   resultEl.textContent = `${counter} matches found`;
+}
