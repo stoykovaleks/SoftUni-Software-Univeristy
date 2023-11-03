@@ -1,12 +1,17 @@
-function heroicInventory(input) {
+function registerHeroes(input){
     let result = [];
 
-    for (const iterator of input) {
-        let [name, level, items] = iterator.split(" / ");
+    for (let data of input) {
+        let [name, level, items] = data.split(" / ");
         level = Number(level);
-        items = items ? items.split(", ") : [];
+        if (items !== undefined){
+            items = items.split(", ");
+        }
+        else{
+            items = [];
+        }
 
-        result.push({name, level, items});
+        result.push({name: name, level: level, items})
     }
     console.log(JSON.stringify(result));
 }

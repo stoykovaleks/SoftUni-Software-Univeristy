@@ -1,44 +1,37 @@
-function carFactory(input) {
-    let res = {
-        model: input.model,
+function carFactory(model, power, color, carriage, wheelsize) {
+    const engines = {
+        smallEngine: { power: 90, volume: 1800 },
+        normalEngine: { power: 120, volume: 2400 },
+        monsterEngine: { power: 200, volume: 3500 },
     }
-    let power = input.power
+    let engine = {};
+
     if (power <= 90) {
-        res.engine = {
-            power: 90, volume: 1800
-        }
+        engine = engines.smallEngine;
     }
     else if (power <= 120) {
-        res.engine = {
-            power: 120, volume: 2400
-        }
+        engine = engines.normalEngine;
     }
     else {
-        res.engine = {
-            power: 200, volume: 3500
-        }
+        engine = engines.monsterEngine;
     }
 
-    let carriage = input.carriage;
-    if (carriage === 'Hatchback') {
-        res.carriage = { type: 'hatchback', color: input.color };
-    }
-    else {
-        res.carriage = { type: 'coupe', color: input.color };
-    }
-    let wheelsize = input.wheelsize
-    
+    let sizeOfWheels = wheelsize;
+
     if (wheelsize % 2 === 0) {
-        wheelsize -= 1;
+        sizeOfWheels--;
     }
-    res.wheels = wheelsize, wheelsize, wheelsize, wheelsize
 
+    let car = {
+        model,
+        engine,
+        carriage: {
+            type: carriage,
+            color
+        },
+        wheels: [sizeOfWheels, sizeOfWheels, sizeOfWheels, sizeOfWheels]
+    };
+
+    
+    return car;
 }
-carFactory({
-    model: 'VW Golf II',
-    power: 90,
-    color: 'blue',
-    carriage: 'hatchback',
-    wheelsize: 14
-}
-)

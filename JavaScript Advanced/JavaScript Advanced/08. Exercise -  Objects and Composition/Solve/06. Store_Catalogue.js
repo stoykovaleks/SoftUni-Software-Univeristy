@@ -21,7 +21,7 @@ function storeCatalogue(input) {
         catalog[key].sort((a, b) => a.name.localeCompare(b.name))
             .forEach(product => {
                 let fixedPrice = product.price.toFixed(2);
-                console.log(`  ${product.name}: ${(product.price.toFixed(2))}`);
+                console.log(`  ${product.name}: ${(product.price).toFixed(2)}`);
             });
     }
 }
