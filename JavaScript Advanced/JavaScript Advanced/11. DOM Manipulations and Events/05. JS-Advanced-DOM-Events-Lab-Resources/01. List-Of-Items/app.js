@@ -1,13 +1,10 @@
 function addItem() {
-    const text = document.getElementById('newItemText');
-    const newLListItemEl = document.createElement('li');
-
-    const newElementContent = document.createTextNode(text.value);
-    newLListItemEl.appendChild(document.createTextNode(text));
-
-    if(text.value !== ''){
-        const listOfItems = document.getElementById('items');
-        listOfItems.appendChild(newLListItemEl);
-        text.value = '';
-    }
+    let input = document.getElementById("newItemText");
+    let inputFieldEl = document.getElementById("newItemText").value;
+    let listItems = document.getElementById("items");
+    let createLi = document.createElement("li");
+    
+    createLi.textContent = inputFieldEl;
+    listItems.appendChild(createLi);
+    input.value = ""
 }

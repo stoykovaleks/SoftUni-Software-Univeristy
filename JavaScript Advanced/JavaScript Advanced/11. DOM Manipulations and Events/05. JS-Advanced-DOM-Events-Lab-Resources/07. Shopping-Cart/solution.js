@@ -1,37 +1,42 @@
 function solve() {
-   const addProductButtonsElement = Array.from(document.querySelectorAll('.add-product'));
+   const shoppingCart = document.getElementsByClassName("shopping-cart")[0];
+   const result = document.getElementsByTagName("textarea")[0];
+
    let products = [];
    let totalPrice = 0;
+   let checkoutDone = false;
 
-
-   for (const btn of addProductButtonsElement) {
-      btn.addEventListener('click', addProductInCart);  
-   }
-
-   function addProductInCart(e) {
-      let productElement = e.target.parentNode.parentNode;
-      let productTitle = productElement.querySelectorAll('.product-title');
-      let priceElement = productElement.querySelector('.product-line-price');
-
-      printMessage(productTitle, priceElement);
-
-      if (!products.includes(productTitle.textContent)) {
-         products.push(productTitle.textContent);
+   shoppingCart.addEventListener("click", function (event) {
+      if (event.target.nodeName === "BUTTON") {
+         return;
       }
 
-      totalPrice += Number(priceElement.textContent);
+      if(checkoutDone){
+         return;
+      }
 
-   }
+      let btn = event.target;
 
-   function printMessage(productTitle, priceElement) {
-      let textAreaElement = document.querySelector('textarea');
-      textAreaElement.textContent += `Added ${productTitle
-         .textContent} for ${priceElement
-            .textContent} to the cart.\n`;
+      if (Array.from(btn.classList).indexOf("add-product") >= 0) {
 
-   }
+         let productEl = event.target.parentElement.parentElement;
 
-   function checkout(e){
-      textAreaElement. textContent += `You bought ${products.join(", ")} for ${totalPrice.toFixed(2)}.`;
-   }
+         let name = productEl.querySelectorAll(".product-title")[0].textContent;
+         let price = Number(productEl.querySelectorAll('.product-line-price')[0].textContent);
+
+         result.textContent += `Added ${name} for ${price} to the cart.\n`
+
+         if (products.indexOf(name) < 0) {
+            products.push(name);
+         }
+
+         totalPrice += Number(price);
+      }
+      else if(Array.from(btn.classList).indexOf("checkout") >= 0){
+         let list = products.join(", ")
+         result.textContent += `"You bought ${list} for ${totalPrice.toFixed(2)}.`;
+         checkoutDone = true;
+      }
+
+   })
 }
