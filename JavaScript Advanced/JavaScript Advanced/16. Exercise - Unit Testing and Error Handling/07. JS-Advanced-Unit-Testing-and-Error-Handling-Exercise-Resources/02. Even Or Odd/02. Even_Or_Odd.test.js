@@ -1,17 +1,14 @@
 const { expect } = require("chai");
 const isOddOrEven = require("./02. Even_Or_Odd");
 
-describe('test even or odd functionality', function (){
-    it('Test for undefined', function(){
-        expect(isEvenOrOdd()).to.be.equal(undefined);
+describe('test even or odd functionality', () => {
+    it("Should return undefined if parameter not a string", () => {
+        expect(isOddOrEven(2)).to.undefined;
     });
-
-    it('Test for even', function(){
-        expect(isEvenOrOdd('abcd')).to.be.equal('even');
+    it("Should be odd", () => {
+        expect(isOddOrEven("1")).equal("odd");
     });
-
-    it('Test for even', function(){
-        expect(isEvenOrOdd('abc')).to.be.equal('odd');
-    });
-    
+    it("Should be odd", () =>{
+        expect(isOddOrEven("22")).equal("even");
+    })
 })

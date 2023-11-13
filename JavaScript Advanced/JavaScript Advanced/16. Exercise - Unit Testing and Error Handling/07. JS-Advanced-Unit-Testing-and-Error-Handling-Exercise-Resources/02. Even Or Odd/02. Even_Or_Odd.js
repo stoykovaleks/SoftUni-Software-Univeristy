@@ -1,6 +1,3 @@
-const chai = require('chai');
-const expect = chai.expect;
-
 function isOddOrEven(string) {
     if (typeof(string) !== 'string') {
         return undefined;
