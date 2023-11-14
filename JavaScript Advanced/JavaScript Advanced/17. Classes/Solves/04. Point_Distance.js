@@ -1,16 +1,17 @@
 class Point {
     constructor(x, y) {
-        this.x = x;
-        this.y = y;
+      this.x = x;
+      this.y = y;
     }
-
-    static distance(p1, p2) {
-        const dx = Math.abs(p1.x - p2.x);
-        const dy = Math.abs(p1.y - p2.y);
-
-        return Math.sqrt(dx ** 2 + dy ** 2);
+  
+    static displayName = "Point";
+    static distance(a, b) {
+      const dx = a.x - b.x;
+      const dy = a.y - b.y;
+  
+      return Math.hypot(dx, dy);
     }
-}
+  }
 
 let p1 = new Point(5, 5);
 let p2 = new Point(9, 8);
